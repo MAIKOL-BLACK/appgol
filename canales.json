@@ -166,13 +166,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "Directv sport opc2",
-                "url": "http://201.217.246.42:44310/Live/53c2be627280243f08557030135e5601/local-01.playlist.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Directv Sport plus ",
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd",
                 "icono": "https://i.postimg.cc/HsjWcjGN/dsports.png",
