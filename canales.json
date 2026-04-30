@@ -2020,6 +2020,18 @@
         ]
     },
     {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "BRASIL🇧🇷",
         "samples": [
             {
@@ -2229,18 +2241,6 @@
                 "name": "GloboAM",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/globoam.m3u8",
                 "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
