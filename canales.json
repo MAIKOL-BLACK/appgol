@@ -222,13 +222,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888"
             },
             {
-                "name": "ESPN PREMIUM IPTV ",
-                "url": "http://46.225.94.157/hls/espn/index.m3u8",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN PREMIUM",
                 "url": "http://181.13.252.102:8000/play/a078/index.m3u8",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
@@ -260,6 +253,13 @@
                 "name": "TyC sport HD",
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/TYC_SPORTS_AR_ENC_LIVE/index.mpd",
                 "icono": "https://i.postimg.cc/B63ZKB9Y/unnamed.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM IPTV ",
+                "url": "http://46.225.94.157/hls/espn/index.m3u8",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
