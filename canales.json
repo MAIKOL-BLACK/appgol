@@ -2840,18 +2840,6 @@
         ]
     },
     {
-        "name": "INTERIOR PY",
-        "samples": [
-            {
-                "name": "Canal 20",
-                "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
-                "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "EVENTOS⚽️",
         "samples": [
             {
@@ -2860,6 +2848,18 @@
                 "icono": "https://i.ibb.co/5XRJgh09/Picsart-26-04-30-11-36-22-857.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d"
+            }
+        ]
+    },
+    {
+        "name": "INTERIOR PY",
+        "samples": [
+            {
+                "name": "Canal 20",
+                "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
+                "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
