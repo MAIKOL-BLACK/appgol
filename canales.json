@@ -1883,6 +1883,17 @@
                 "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
             },
             {
+                "name": "Novelísima",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
                 "name": "RCN NOVELAS",
                 "url": "http://201.219.193.210:3002/play/a0sk",
                 "type": "CLEARKEY",
@@ -1902,17 +1913,6 @@
                 "type": "HLS",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Novelísima",
-                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
             },
             {
                 "name": "TELENOVELAS",
