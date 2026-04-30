@@ -34,6 +34,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TIGO 24/7  Opc.2",
                 "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -98,13 +105,6 @@
                 "name": "ESPN Disney+ 6",
                 "url": "http://181.78.7.90:12500/play/a0il/index.m3u8",
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
