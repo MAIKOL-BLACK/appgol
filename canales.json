@@ -2444,6 +2444,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Ayuda 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/547F869F7FF04982BFACFB2EEF48FDBF_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
@@ -2555,13 +2562,6 @@
                 "name": "ROMANCE",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
