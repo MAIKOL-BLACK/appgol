@@ -363,6 +363,13 @@
         "name": "DEPORTE PERÚ🇵🇪",
         "samples": [
             {
+                "name": "ESPN 1",
+                "url": "http://38.224.231.47:8000/play/a03s/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 2",
                 "url": "http://38.252.215.33:8000/play/a011/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
@@ -380,13 +387,6 @@
                 "name": "ESPN 4",
                 "url": "http://38.224.231.47:8000/play/a04h/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 1",
-                "url": "http://38.224.231.47:8000/play/a03s/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
