@@ -144,6 +144,18 @@
         ]
     },
     {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽️DEPORTES ESPN Y FOX SPORT ARGENTINA🇦🇷",
         "samples": [
             {
@@ -227,18 +239,6 @@
                 "name": "TyC sport HD",
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/TYC_SPORTS_AR_ENC_LIVE/index.mpd",
                 "icono": "https://i.postimg.cc/B63ZKB9Y/unnamed.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
