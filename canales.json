@@ -1544,6 +1544,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
+            },
+            {
+                "name": "HBO 2 FHD",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd",
+                "icono": "https://i.postimg.cc/Y0cRLLZ4/1776026841174.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=09e84fc7ecb71def143cd7e2771f3b35&key=1a91f2d315fb0593321ba60aa783ec2c"
             }
         ]
     },
@@ -1556,13 +1563,6 @@
                 "icono": "https://i.postimg.cc/y6Sr6stL/1776026697767.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1"
-            },
-            {
-                "name": "HBO 2 FHD",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd",
-                "icono": "https://i.postimg.cc/Y0cRLLZ4/1776026841174.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=09e84fc7ecb71def143cd7e2771f3b35&key=1a91f2d315fb0593321ba60aa783ec2c"
             },
             {
                 "name": "HBO FAMILY FHD",
