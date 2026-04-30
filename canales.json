@@ -167,7 +167,7 @@
             },
             {
                 "name": "Directv Sport plus ",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd",
+                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
                 "icono": "https://i.postimg.cc/HsjWcjGN/dsports.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
