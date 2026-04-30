@@ -2559,6 +2559,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "PELISES",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
@@ -2670,15 +2677,7 @@
     },
     {
         "name": "CERRO PORTEÑO vs PALMEIRA",
-        "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
+        "samples": []
     },
     {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷()",
