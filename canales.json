@@ -292,6 +292,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 4 MX",
                 "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
                 "icono": "https://i.postimg.cc/8P73fRFN/1775873057565.png",
@@ -385,13 +392,6 @@
     {
         "name": "DEPORTE ESPAÑA🇪🇸",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "Movistar La Liga",
                 "url": "http://latam-cache-sv2-cdn.latamlive.net/MLALIGA_IP_ENC_TEMPORAL/index.mpd",
