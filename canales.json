@@ -235,7 +235,7 @@
             },
             {
                 "name": "FOX SPORT AR",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS_HD_AR_ENC_LIVE/index.mpd",
+                "url": "http://45.5.151.147:8000/play/a00n/index.m3u8?hls",
                 "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
