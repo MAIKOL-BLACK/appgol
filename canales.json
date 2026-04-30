@@ -15,13 +15,6 @@
                 }
             },
             {
-                "name": "EVENTOS 3",
-                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=aCTincBaI8oSZT5qbgtPUsWF/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-                "icono": "",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2245f48a5998442f835099d30f2e0305&key=f48f6ce816fe86d8c10587e9a7e927a3"
-            },
-            {
                 "name": "EVENTOS 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -32,6 +25,13 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "EVENTOS 3",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=aCTincBaI8oSZT5qbgtPUsWF/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+                "icono": "",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2245f48a5998442f835099d30f2e0305&key=f48f6ce816fe86d8c10587e9a7e927a3"
             },
             {
                 "name": "Tigo 1 en vivo",
