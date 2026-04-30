@@ -1082,6 +1082,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png"
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "C9N  ",
                 "url": "https://qn-01282-mun-1-04-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0NTkyIiwic2lwIjoiMTkwLjE3NS40OC4xMzUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZTE3ZDVjNjcxNDIxZTE2Iiwic2Vzc2lvbl9pZCI6Ijg5NDc0MjgyLTE3NzYyMTE3OTItNzg0IiwiY2xpZW50X2lkIjoiOTk5OTAwMDA2MjU3MDEyLS0xNDIzODIzMiIsImRldmljZV9pZCI6Ijg5NDc0MjgyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyODEiLCJzb3VyY2VzIjpbMTQ2XX0=.z1_REXTRn89GJL69nQGAVDKh0JKZAPSWJFZBZvB3Q4M8ip9ytlggB8yMFKXomo0DIk8epcrokCHVqCH6jzsV5Q==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
                 "type": "CLEARKEY",
@@ -1164,13 +1171,6 @@
     {
         "name": "ARGENTINA🇦🇷",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "AMERICA TV ",
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
