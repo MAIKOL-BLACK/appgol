@@ -1586,6 +1586,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=861ab989089891d84ad0da296954437c&key=3bdf94f9fc1888529f8d27d070d38566"
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO SIGNATURE FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
                 "icono": "https://i.postimg.cc/jdYvs1pS/1776028660137.png",
@@ -1685,13 +1692,6 @@
     {
         "name": "CULTURA Y COCINA 🐢",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ANIMAL PLANET",
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
