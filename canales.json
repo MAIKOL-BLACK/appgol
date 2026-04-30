@@ -2385,6 +2385,18 @@
         ]
     },
     {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "🎬NETFLIX  ESTRENO 2026",
         "samples": [
             {
@@ -2475,18 +2487,6 @@
                 "name": "Lindas y letales 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/23C45F03F7CB48C2B571B57DE34F42D3_media.ts",
                 "icono": "https://i.postimg.cc/MKbZX5gz/Screenshot-20260402-173536-Chrome.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
