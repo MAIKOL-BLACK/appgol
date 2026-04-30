@@ -229,6 +229,13 @@
         "name": "DEPORTE MEXICO🇲🇽",
         "samples": [
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX ONE ",
                 "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8",
                 "icono": "https://i.postimg.cc/L5rx3Pr0/G7QBt-Nt-WUAAoj-J3.jpg",
@@ -290,13 +297,6 @@
                 "icono": "https://i.postimg.cc/FKY12n1t/1775873019046.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "ESPN 4 MX",
