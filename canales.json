@@ -651,6 +651,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Flamengo vs Independiente  Medellin",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
@@ -753,13 +760,6 @@
     {
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
