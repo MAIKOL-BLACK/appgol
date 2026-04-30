@@ -2336,6 +2336,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Glob",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/gloob.m3u8",
                 "icono": "",
@@ -2440,13 +2447,6 @@
                 "name": "Peaky Blinders: El hombre inmortal 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/61E7F16DEDB74E889F6FE5A60B3C27F1_media.mp4",
                 "icono": "https://i.postimg.cc/gjCS337B/Peaky-Blinders-El-hombre-inmortal-336453060-large.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
