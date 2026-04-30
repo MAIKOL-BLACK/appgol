@@ -1471,6 +1471,13 @@
         "name": "PACK HBO Y UNIVERSAL 🎥",
         "samples": [
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO 1",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
                 "type": "CLEARKEY",
@@ -1584,13 +1591,6 @@
                 "icono": "https://i.postimg.cc/Qt6sXsyv/1776027633254.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=861ab989089891d84ad0da296954437c&key=3bdf94f9fc1888529f8d27d070d38566"
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "HBO SIGNATURE FHD",
