@@ -159,13 +159,6 @@
         "name": "Directv Sport 🇦🇷⚽️",
         "samples": [
             {
-                "name": "DSPORT ",
-                "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Directv sport 1",
                 "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
                 "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
