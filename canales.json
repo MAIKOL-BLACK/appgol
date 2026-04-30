@@ -1690,6 +1690,18 @@
         ]
     },
     {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CULTURA Y COCINA 🐢",
         "samples": [
             {
@@ -1836,18 +1848,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://www.totalmedios.com/img/noticias/2020/07/5efc74e42ba7b__838x390.jpg",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d"
-            }
-        ]
-    },
-    {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
