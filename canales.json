@@ -114,13 +114,6 @@
         "name": "Directv Sport 🇦🇷⚽️",
         "samples": [
             {
-                "name": "FOX SPORT 3",
-                "url": "http://181.13.252.102:8000/play/a02t/index.m3u8",
-                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "DSPORT ",
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
                 "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
@@ -193,6 +186,13 @@
                 "url": "https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS2_HD_AR_ENC_LIVE/index.mpd",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
                 "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX SPORT 3",
+                "url": "http://181.13.252.102:8000/play/a02t/index.m3u8",
+                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
+                "type": "HLS",
                 "drm_license_uri": ""
             },
             {
