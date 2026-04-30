@@ -34,8 +34,8 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
+                "name": "ESPN 2 COLOMBIA",
+                "url": "http://181.118.158.103:8000/play/a039/index.m3u8?hls",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
