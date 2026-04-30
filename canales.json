@@ -386,6 +386,13 @@
         "name": "DEPORTE ESPAÑA🇪🇸",
         "samples": [
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Movistar La Liga",
                 "url": "http://latam-cache-sv2-cdn.latamlive.net/MLALIGA_IP_ENC_TEMPORAL/index.mpd",
                 "icono": "https://i.postimg.cc/DzSt4jbD/images-(4).png",
@@ -439,13 +446,6 @@
     {
         "name": "DEPORTE CHILE🇨🇱",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ESPN 1",
                 "url": "http://190.93.229.30:8000/play/a0fw/index.m3u8",
