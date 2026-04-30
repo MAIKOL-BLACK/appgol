@@ -2680,6 +2680,18 @@
         "samples": []
     },
     {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷()",
         "samples": [
             {
@@ -2807,18 +2819,6 @@
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://DL.dropbox.com/scl/fi/i6npptnp7m4apf6pakd86/clearkey_tycsports.json?rlkey=fmyz3j13z4kbjv6usbjx45nch&st=o3mip5ys&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
