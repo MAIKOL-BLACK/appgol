@@ -2819,13 +2819,6 @@
                 "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "CNN",
-                "url": "https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/runtime%20y%20extreme",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     }
