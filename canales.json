@@ -102,6 +102,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN Disney+ 7",
                 "url": "http://181.78.7.90:12500/play/a0k5/index.m3u8",
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
@@ -146,13 +153,6 @@
     {
         "name": "⚽️DEPORTES ESPN Y FOX SPORT ARGENTINA🇦🇷",
         "samples": [
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ESPN 1 PY",
                 "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc3NjUyNzg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3Mjk0Zjk4NzZjZmNhZjQiLCJzZXNzaW9uX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQtMTc3NzQ3OTk4OC00ODUiLCJjbGllbnRfaWQiOiJmbG93OjM2MTAwOTMtLWZsb3c6MzYxMDA5MzpQIiwiZGV2aWNlX2lkIjoiZjg1MDJhN2QwNWRkNmY5ODkzYWE1MGM2Y2JhYWU5MGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.MwdT7MTSxB-Aqax8N0DDWjPCgQNVj4KthB5E8StDUjv0aWo3VFR712UARKnOelKfMhskiXRvv1HenrFcc2t1SA==/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
