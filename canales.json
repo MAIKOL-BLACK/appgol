@@ -754,6 +754,13 @@
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
                 "type": "HLS",
@@ -822,13 +829,6 @@
                 "icono": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "beINSports2 AU",
