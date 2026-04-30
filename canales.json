@@ -2231,6 +2231,13 @@
         "name": "PACK PREMIUM VERSION BRASILERA",
         "samples": [
             {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO ",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
                 "icono": "https://i.postimg.cc/g0KTWj6S/FB-IMG-1775956043916.jpg",
@@ -2331,13 +2338,6 @@
             {
                 "name": "AMC",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/amc.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORT 3",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
