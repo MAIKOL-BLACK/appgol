@@ -2817,5 +2817,17 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "CERRO PORTEÑO vs PALMEIRA",
+        "samples": [
+            {
+                "name": "FOX SPORT 3",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
