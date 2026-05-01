@@ -2881,6 +2881,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://45.5.151.147:8000/play/a00m/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
