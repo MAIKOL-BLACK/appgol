@@ -87,7 +87,7 @@
         "samples": [
             {
                 "name": "ESPN 1 HD",
-                "url": "http://45.5.151.147:8000/play/a00i/index.m3u8?hls",
+                "url": "http://200.112.174.230/mtcast_espnhd/mpegts",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
