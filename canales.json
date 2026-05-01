@@ -2852,18 +2852,6 @@
         ]
     },
     {
-        "name": "INTERIOR PY",
-        "samples": [
-            {
-                "name": "Canal 20",
-                "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
-                "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "Deportes Argentina Sin cortes🇦🇷",
         "samples": [
             {
@@ -2877,6 +2865,18 @@
                 "name": "ESPN 2 HD",
                 "url": "http://45.5.151.147:8000/play/a00j/index.m3u8?hls",
                 "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "INTERIOR PY",
+        "samples": [
+            {
+                "name": "Canal 20",
+                "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
+                "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
