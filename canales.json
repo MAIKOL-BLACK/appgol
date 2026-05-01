@@ -2874,6 +2874,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4 HD",
+                "url": "http://45.5.151.147:8000/play/a00l/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
