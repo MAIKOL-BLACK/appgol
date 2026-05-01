@@ -2721,6 +2721,46 @@
         ]
     },
     {
+        "name": "Deportes Argentina Sin cortes🇦🇷",
+        "samples": [
+            {
+                "name": "ESPN 1 HD",
+                "url": "http://45.5.151.147:8000/play/a00i/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 HD",
+                "url": "http://45.5.151.147:8000/play/a00j/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 HD",
+                "url": "http://45.5.151.147:8000/play/a00k/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4 HD",
+                "url": "http://45.5.151.147:8000/play/a00l/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://45.5.151.147:8000/play/a00m/index.m3u8?hls",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷()",
         "samples": [
             {
@@ -2848,46 +2888,6 @@
                 "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://DL.dropbox.com/scl/fi/i6npptnp7m4apf6pakd86/clearkey_tycsports.json?rlkey=fmyz3j13z4kbjv6usbjx45nch&st=o3mip5ys&dl=0"
-            }
-        ]
-    },
-    {
-        "name": "Deportes Argentina Sin cortes🇦🇷",
-        "samples": [
-            {
-                "name": "ESPN 1 HD",
-                "url": "http://45.5.151.147:8000/play/a00i/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 HD",
-                "url": "http://45.5.151.147:8000/play/a00j/index.m3u8?hls",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3 HD",
-                "url": "http://45.5.151.147:8000/play/a00k/index.m3u8?hls",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4 HD",
-                "url": "http://45.5.151.147:8000/play/a00l/index.m3u8?hls",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://45.5.151.147:8000/play/a00m/index.m3u8?hls",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
