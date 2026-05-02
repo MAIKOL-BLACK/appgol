@@ -60,6 +60,13 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Tigo",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
