@@ -74,18 +74,18 @@
         "name": "EVENTOS⚽️",
         "samples": [
             {
-                "name": "14:00HS FORMULA 1 GP MIAMI",
-                "url": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3NzgzNTMyMX0.ZcT5Nkm_n165wzjFwYjf-YmfnDalGEeiBRMrZx6jsMA/f1-on-apple.m3u8",
-                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "14:00HS FORMULA 1 GP MIAMI ",
                 "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
                 "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+            },
+            {
+                "name": "14:00HS FORMULA 1 GP MIAMI",
+                "url": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3NzgzNTMyMX0.ZcT5Nkm_n165wzjFwYjf-YmfnDalGEeiBRMrZx6jsMA/f1-on-apple.m3u8",
+                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -820,7 +820,7 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
             },
             {
-                "name": "ESPN BRASIL ",
+                "name": "Flamengo vs Independiente  Medellin",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
                 "type": "HLS",
@@ -1769,18 +1769,18 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a"
             },
             {
-                "name": "HBO MOSAICO FHD",
-                "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
-            },
-            {
                 "name": "UNIVERSAL CRIMEN",
                 "url": "https://nog-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3a908a5d38a9c496ced27faa6bf5ff8e&key=85a5835a92bd7f87faf5ffbcb8814d33"
+            },
+            {
+                "name": "HBO MOSAICO FHD",
+                "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
             },
             {
                 "name": "UNIVERSAL CINEMA",
@@ -3062,67 +3062,13 @@
                 "icono": "",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504"
-            }
-        ]
-    },
-    {
-        "name": "ESPN BRAS",
-        "samples": [
-            {
-                "name": "ESPN 1 BRAS",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
-                "name": "ESPN 2 ",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8",
+                "name": "Dsp+",
+                "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
                 "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn5.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn6.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn7.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Premier",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f"
             }
         ]
     }
