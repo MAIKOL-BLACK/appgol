@@ -41,13 +41,6 @@
                 }
             },
             {
-                "name": "Tigo",
-                "url": "http://localhost.apppelis.es/solplay/169.mpd",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "EVENTOS 3",
                 "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=aCTincBaI8oSZT5qbgtPUsWF/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -65,6 +58,13 @@
                 "name": "Tigo Sport 24/7 Opc. 3",
                 "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Tigo",
+                "url": "http://localhost.apppelis.es/solplay/169.mpd",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
