@@ -702,6 +702,18 @@
         ]
     },
     {
+        "name": "EVENTOS⚽️",
+        "samples": [
+            {
+                "name": "14:00HS FORMULA 1 GP MIAMI ",
+                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+            }
+        ]
+    },
+    {
         "name": "ESPN COLOMBIA🇨🇴",
         "samples": [
             {
@@ -752,18 +764,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS⚽️",
-        "samples": [
-            {
-                "name": "14:00HS FORMULA 1 GP MIAMI ",
-                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
             }
         ]
     },
