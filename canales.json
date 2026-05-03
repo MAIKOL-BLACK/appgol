@@ -2624,6 +2624,18 @@
         ]
     },
     {
+        "name": "EVENTOS⚽️",
+        "samples": [
+            {
+                "name": "14:00HS FORMULA 1 GP MIAMI ",
+                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+            }
+        ]
+    },
+    {
         "name": "ESPECIAL HALLOWEN ",
         "samples": [
             {
@@ -2660,18 +2672,6 @@
                 "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS⚽️",
-        "samples": [
-            {
-                "name": "14:00HS FORMULA 1 GP MIAMI ",
-                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
             }
         ]
     },
