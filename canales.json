@@ -85,7 +85,7 @@
                 "url": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                 "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
                 "type": "CLEARKEY",
-                "drm_license_uri": ""
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7e9239c1982d984a002df3ed049d0756&key=1b8a17598129a3618535c8fb05f103fe"
             }
         ]
     },
