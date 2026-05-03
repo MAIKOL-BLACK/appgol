@@ -3024,6 +3024,18 @@
                     "Referer": "https://www.lpfplay.com/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "Sky f1",
+                "url": "https://esx1.mizhls.ru/esx1/primaskyf1/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": "",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
             }
         ]
     }
