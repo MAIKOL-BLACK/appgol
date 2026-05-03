@@ -66,12 +66,7 @@
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
                 "icono": "",
                 "type": "HLS",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "drm_license_uri": ""
             }
         ]
     },
