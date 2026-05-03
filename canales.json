@@ -820,13 +820,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
             },
             {
-                "name": "Flamengo vs Independiente  Medellin",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
-                "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 1 BR",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
