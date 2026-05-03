@@ -63,7 +63,7 @@
             },
             {
                 "name": "Tigo",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+                "url": "http://localhost.apppelis.es/solplay/169.mpd",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
