@@ -1393,6 +1393,18 @@
         ]
     },
     {
+        "name": "EVENTOS⚽️",
+        "samples": [
+            {
+                "name": "14:00HS FORMULA 1 GP MIAMI ",
+                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+            }
+        ]
+    },
+    {
         "name": "CINE Y SERIES 🎬",
         "samples": [
             {
@@ -1574,18 +1586,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS⚽️",
-        "samples": [
-            {
-                "name": "14:00HS FORMULA 1 GP MIAMI ",
-                "url": "https://aca-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                "icono": "https://i.ibb.co/KcWkCDYD/af787a750eb9760acd4c40a0b2423533.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b"
             }
         ]
     },
