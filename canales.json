@@ -876,6 +876,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc"
             },
             {
+                "name": "Sportv 3",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+                "icono": "https://i.postimg.cc/Rhx3501R/1775952232398.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3"
+            },
+            {
                 "name": "CAZÉ TV",
                 "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
                 "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
@@ -895,13 +902,6 @@
                 "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
-            },
-            {
-                "name": "Sportv 3",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-                "icono": "https://i.postimg.cc/Rhx3501R/1775952232398.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3"
             },
             {
                 "name": "NSPORT",
