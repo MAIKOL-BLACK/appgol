@@ -3116,6 +3116,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Premier",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
