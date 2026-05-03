@@ -1769,18 +1769,18 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a"
             },
             {
-                "name": "UNIVERSAL CRIMEN",
-                "url": "https://nog-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
-                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3a908a5d38a9c496ced27faa6bf5ff8e&key=85a5835a92bd7f87faf5ffbcb8814d33"
-            },
-            {
                 "name": "HBO MOSAICO FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
+            },
+            {
+                "name": "UNIVERSAL CRIMEN",
+                "url": "https://nog-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
+                "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3a908a5d38a9c496ced27faa6bf5ff8e&key=85a5835a92bd7f87faf5ffbcb8814d33"
             },
             {
                 "name": "UNIVERSAL CINEMA",
