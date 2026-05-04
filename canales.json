@@ -2206,6 +2206,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Globo RS",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/globors.m3u8",
                 "icono": "",
@@ -2306,13 +2313,6 @@
             {
                 "name": "Bandnews",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/bandnews.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
