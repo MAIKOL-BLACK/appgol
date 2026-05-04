@@ -977,6 +977,13 @@
         "name": "DEPORTE CHILE🇨🇱",
         "samples": [
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 1",
                 "url": "http://190.93.229.30:8000/play/a0fw/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -1055,13 +1062,6 @@
                 "name": "ESPN 3",
                 "url": "http://45.188.229.33:8000/play/a1b0/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
