@@ -2571,6 +2571,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Cortafuego 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/BEE301FD224047F9BE2CEB8F546EDE7D_media.mp4",
                 "icono": "https://i.postimg.cc/Zn2k2tyX/1775159311312.png",
@@ -2645,13 +2652,6 @@
     {
         "name": "ESPECIAL HALLOWEN ",
         "samples": [
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "MIEDO TV ",
                 "url": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-Spanish/ctgr-Movies/title-MI-MIEDO-CANAL-SPA/sofastplayout/bf03a5cc-e672-9612-ef64-5296cfdb_HLS/playlist.m3u8",
