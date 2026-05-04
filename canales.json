@@ -573,74 +573,6 @@
         ]
     },
     {
-        "name": "DEPORTE PERÚ🇵🇪",
-        "samples": [
-            {
-                "name": "ESPN 1",
-                "url": "http://38.187.2.124:8000/play/a00y/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://38.187.2.124:8000/play/a01d/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Espn 3",
-                "url": "http://38.187.2.124:8000/play/a01n/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://38.187.2.124:8000/play/a00i/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "http://38.187.2.124:8000/play/a01e/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "http://38.187.2.124:8000/play/a017/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "http://38.187.2.124:8000/play/a00b/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LIGA 1 MAX",
-                "url": "http://38.224.231.47:8000/play/a06a/index.m3u8",
-                "icono": "https://i.postimg.cc/X7G6bcxC/63e1b819dee39520f21a30c9-(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUN",
-                "url": "http://38.187.2.124:8000/play/a010/index.m3u8?hls",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "PARAGUAY🇵🇾",
         "samples": [
             {
@@ -828,6 +760,74 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            }
+        ]
+    },
+    {
+        "name": "DEPORTE PERÚ🇵🇪",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://38.187.2.124:8000/play/a00y/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://38.187.2.124:8000/play/a01d/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Espn 3",
+                "url": "http://38.187.2.124:8000/play/a01n/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://38.187.2.124:8000/play/a00i/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://38.187.2.124:8000/play/a01e/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://38.187.2.124:8000/play/a017/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://38.187.2.124:8000/play/a00b/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LIGA 1 MAX",
+                "url": "http://38.224.231.47:8000/play/a06a/index.m3u8",
+                "icono": "https://i.postimg.cc/X7G6bcxC/63e1b819dee39520f21a30c9-(1).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUN",
+                "url": "http://38.187.2.124:8000/play/a010/index.m3u8?hls",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
