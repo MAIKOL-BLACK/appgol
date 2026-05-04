@@ -2400,6 +2400,13 @@
         "name": "PACK PREMIUM VERSION BRASILERA",
         "samples": [
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO ",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/hbo.m3u8",
                 "icono": "https://i.postimg.cc/g0KTWj6S/FB-IMG-1775956043916.jpg",
@@ -2500,13 +2507,6 @@
             {
                 "name": "A&E",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/ae.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
