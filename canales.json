@@ -625,6 +625,13 @@
         "name": "🏎Deportes Motors🏁",
         "samples": [
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DAZN F1",
                 "url": "http://128.201.227.251:4000/play/a0cm",
                 "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
@@ -687,13 +694,6 @@
                 "name": "FOX ONE EXTRA",
                 "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
                 "icono": "https://i.postimg.cc/g2pC99Tg/1775872517324.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
