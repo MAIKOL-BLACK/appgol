@@ -534,32 +534,6 @@
         ]
     },
     {
-        "name": "🏎Deportes Motors🏁",
-        "samples": [
-            {
-                "name": "DAZN F1",
-                "url": "http://128.201.227.251:4000/play/a0cm",
-                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Motor Sur🇵🇾🏎",
-                "url": "https://edge.enhdtv.com/8116/index.m3u8",
-                "icono": "https://i.ibb.co/7dQQJ95v/FB-IMG-1777518070722.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RALLY TV",
-                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-                "icono": "https://i.ibb.co/B2gdQdrq/24-7-channel.webp",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
@@ -637,6 +611,32 @@
                 "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
+            }
+        ]
+    },
+    {
+        "name": "🏎Deportes Motors🏁",
+        "samples": [
+            {
+                "name": "DAZN F1",
+                "url": "http://128.201.227.251:4000/play/a0cm",
+                "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Motor Sur🇵🇾🏎",
+                "url": "https://edge.enhdtv.com/8116/index.m3u8",
+                "icono": "https://i.ibb.co/7dQQJ95v/FB-IMG-1777518070722.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RALLY TV",
+                "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+                "icono": "https://i.ibb.co/B2gdQdrq/24-7-channel.webp",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
