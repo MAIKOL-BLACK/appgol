@@ -280,25 +280,6 @@
         ]
     },
     {
-        "name": "Directv Sport 🇦🇷⚽️",
-        "samples": [
-            {
-                "name": "Directv sport 1",
-                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Directv Sport plus ",
-                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
-                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CANALES PARAGUAYO",
         "samples": [
             {
@@ -383,6 +364,25 @@
                 "url": "https://rds3gen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/index.m3u8?admin=nacion",
                 "icono": "",
                 "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "Directv Sport 🇦🇷⚽️",
+        "samples": [
+            {
+                "name": "Directv sport 1",
+                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Directv Sport plus ",
+                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
+                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
