@@ -349,7 +349,7 @@
             },
             {
                 "name": "SNT HD ",
-                "url": "https://45.170.130.224:8000/play/a04i/index.m3u8",
+                "url": "https://45.170.130.224:8000/play/a013/index.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
