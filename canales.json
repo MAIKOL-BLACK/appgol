@@ -2038,6 +2038,13 @@
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "AZCORAZON",
                 "url": "http://190.108.89.228:8000/play/a051/index.m3u8",
                 "type": "CLEARKEY",
@@ -2129,13 +2136,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/m2rfcoqmlogiu30o4jg0g/clearkey_cartoon.json?rlkey=kj1z1akf4wmsnwxlkg6a53jz6&st=r7ncpfku&dl=0",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png"
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "Discovery Kids",
