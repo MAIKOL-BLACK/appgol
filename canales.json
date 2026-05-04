@@ -63,7 +63,7 @@
             },
             {
                 "name": "Rtyy",
-                "url": "http://45.5.151.147:8000/play/a00a/18678338.m3u8",
+                "url": "https://45.5.151.147:8000/play/a00a/18678338.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
