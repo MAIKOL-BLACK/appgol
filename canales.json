@@ -2925,6 +2925,13 @@
                 "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png"
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORT",
                 "url": "http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
@@ -3003,13 +3010,6 @@
                 "icono": "",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ed53871dc50dcdc59a6271db3c8c51b3&key=0c21dc8629e3f2e6fe9efa8b80dc447e"
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "Espn 4",
