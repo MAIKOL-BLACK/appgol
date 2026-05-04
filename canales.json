@@ -374,7 +374,7 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png"
             },
             {
-                "name": "Conecanal",
+                "name": "CINEMAX",
                 "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
                 "icono": "",
                 "type": "HLS",
