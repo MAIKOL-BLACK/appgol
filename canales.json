@@ -2707,6 +2707,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPANTO ",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126&avod=1&coppa=0&is_lat=0",
                 "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
@@ -2778,13 +2785,6 @@
                 "name": "RETRO PLUS ",
                 "url": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8",
                 "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
