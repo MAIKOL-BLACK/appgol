@@ -60,6 +60,13 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Rtyy",
+                "url": "https://angulismotv-dnh.pages.dev",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
