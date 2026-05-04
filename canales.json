@@ -3071,5 +3071,17 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc1d8219be0130da85e4c4ce73a75abb&key=3e6db98d9df4747108bd896cba0be57d"
             }
         ]
+    },
+    {
+        "name": "CHANEL HISTORY",
+        "samples": [
+            {
+                "name": "H",
+                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
