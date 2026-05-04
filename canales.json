@@ -560,25 +560,6 @@
         ]
     },
     {
-        "name": "Directv Sport 🇦🇷⚽️",
-        "samples": [
-            {
-                "name": "Directv sport 1",
-                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Directv Sport plus ",
-                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
-                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
@@ -656,6 +637,25 @@
                 "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
+            }
+        ]
+    },
+    {
+        "name": "Directv Sport 🇦🇷⚽️",
+        "samples": [
+            {
+                "name": "Directv sport 1",
+                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Directv Sport plus ",
+                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
             }
         ]
     },
