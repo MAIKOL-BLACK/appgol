@@ -1209,6 +1209,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 4 BR",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
@@ -1283,13 +1290,6 @@
     {
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "BEIN SPORTS  Ñ",
                 "url": "https://vt-ip.vodep39240327.workers.dev/2585.m3u8",
