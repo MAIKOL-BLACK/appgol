@@ -196,6 +196,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Dport",
+                "url": "http://45.5.151.147:8000/play/a00a/18678338.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
