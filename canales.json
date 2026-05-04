@@ -2470,6 +2470,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AMC",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/amc.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TNT",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/tnt.m3u8",
                 "icono": "",
@@ -2486,13 +2493,6 @@
             {
                 "name": "A&E",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/ae.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMC",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/amc.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
