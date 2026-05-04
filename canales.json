@@ -2505,6 +2505,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Glob",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/gloob.m3u8",
                 "icono": "",
@@ -2516,13 +2523,6 @@
     {
         "name": "TELEMUNDO INTERNACIONAL",
         "samples": [
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "TELEMUNDO NOTICIAS ",
                 "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
