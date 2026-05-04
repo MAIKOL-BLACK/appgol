@@ -2517,6 +2517,13 @@
         "name": "TELEMUNDO INTERNACIONAL",
         "samples": [
             {
+                "name": "Conecanal",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TELEMUNDO NOTICIAS ",
                 "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
@@ -2567,13 +2574,6 @@
                 "name": "El Engaño 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/D9AB4A82610C42DF8CD1C4C98F175E0D_media.mp4",
                 "icono": "https://i.postimg.cc/MKntpfhv/1775160643215.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Conecanal",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
