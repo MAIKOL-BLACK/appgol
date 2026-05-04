@@ -15,6 +15,18 @@
                 }
             },
             {
+                "name": "EVENTOS 2",
+                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+                "headers": {
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                }
+            },
+            {
                 "name": "Tigo 1 en vivo",
                 "url": "http://rlatinop.com:8880/live/xtream2323XSTREA/gphzPzzWFcRb/502914.m3u8?_cb=1776094549343",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -34,18 +46,6 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2245f48a5998442f835099d30f2e0305&key=f48f6ce816fe86d8c10587e9a7e927a3"
-            },
-            {
-                "name": "EVENTOS 2",
-                "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
             },
             {
                 "name": "TIGO 24/7  Opc.2",
