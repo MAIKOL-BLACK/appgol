@@ -280,16 +280,16 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "PARAVISION  SD",
-                "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "name": "LA TELE SD",
+                "url": "http://45.170.130.224:8000/play/a03u/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "LA TELE SD",
-                "url": "http://45.170.130.224:8000/play/a03u/index.m3u8",
-                "icono": "",
+                "name": "PARAVISION  SD",
+                "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
