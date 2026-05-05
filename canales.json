@@ -2610,88 +2610,6 @@
         ]
     },
     {
-        "name": "FREE TV LIVE",
-        "samples": [
-            {
-                "name": "FREE TV ACCION ",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
-                "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV CRIMEN",
-                "url": "https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8",
-                "icono": "https://i.postimg.cc/4dvyskyh/freetv-crime.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV DRAMA BRASIL",
-                "url": "https://oly-ftvcbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8",
-                "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Popcom Central Canal 6.4",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333",
-                "icono": "https://i.ibb.co/6c776xQ1/popcorn-central.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV ASIA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16328",
-                "icono": "https://i.postimg.cc/k5SBgpT9/freetv-asia.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE CLASICO ",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324",
-                "icono": "https://i.postimg.cc/RVLHB0th/freetvclasico.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV DRAMA",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316",
-                "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV ESTELAR",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318",
-                "icono": "https://i.postimg.cc/26t10qgL/freetvfamilia.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV LIVE",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329",
-                "icono": "https://i.postimg.cc/htRdFdvN/freetvlive.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV SUREÑO ",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16323",
-                "icono": "https://i.postimg.cc/90vqQ4Bv/freetvsureno-png.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FREE TV TERROR",
-                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319",
-                "icono": "https://i.postimg.cc/4dxcLRyn/freetvterror.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "DEPORTE ARGENTINA SAT",
         "samples": [
             {
@@ -2775,6 +2693,88 @@
                 "name": "TyC Sports",
                 "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
                 "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "FREE TV LIVE",
+        "samples": [
+            {
+                "name": "FREE TV ACCION ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
+                "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV CRIMEN",
+                "url": "https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8",
+                "icono": "https://i.postimg.cc/4dvyskyh/freetv-crime.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV DRAMA BRASIL",
+                "url": "https://oly-ftvcbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8",
+                "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Popcom Central Canal 6.4",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333",
+                "icono": "https://i.ibb.co/6c776xQ1/popcorn-central.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV ASIA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16328",
+                "icono": "https://i.postimg.cc/k5SBgpT9/freetv-asia.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE CLASICO ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324",
+                "icono": "https://i.postimg.cc/RVLHB0th/freetvclasico.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV DRAMA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316",
+                "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV ESTELAR",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318",
+                "icono": "https://i.postimg.cc/26t10qgL/freetvfamilia.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV LIVE",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329",
+                "icono": "https://i.postimg.cc/htRdFdvN/freetvlive.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV SUREÑO ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16323",
+                "icono": "https://i.postimg.cc/90vqQ4Bv/freetvsureno-png.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV TERROR",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319",
+                "icono": "https://i.postimg.cc/4dxcLRyn/freetvterror.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
