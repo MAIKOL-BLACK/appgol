@@ -182,6 +182,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TELEFUTURO PY SD",
+                "url": "http://45.170.130.224:8000/play/a04m/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "NPY",
                 "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
@@ -194,13 +201,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png"
-            },
-            {
-                "name": "TELEFUTURO PY SD",
-                "url": "http://45.170.130.224:8000/play/a04m/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "LA TELE HD",
