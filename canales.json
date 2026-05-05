@@ -235,6 +235,18 @@
         ]
     },
     {
+        "name": "EVENTOS⚽️",
+        "samples": [
+            {
+                "name": "21:30hs SUDAMERICANA RECOLETA VS SANTOS",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            }
+        ]
+    },
+    {
         "name": "PARAGUAY🇵🇾",
         "samples": [
             {
@@ -415,18 +427,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS⚽️",
-        "samples": [
-            {
-                "name": "21:30hs SUDAMERICANA RECOLETA VS SANTOS",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             }
         ]
     },
