@@ -546,13 +546,6 @@
                 }
             },
             {
-                "name": "MI TV ",
-                "url": "http://localhost.apppelis.es/solplay/180.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/mi-tv_2fbedc2b66b540a6a8070fe9f50137c6.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "LA TELE",
                 "url": "https://qn-01282-mun-1-04-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0NTkyIiwic2lwIjoiMTkwLjE3NS40OC4xMzUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZTE3ZDVjNjcxNDIxZTE2Iiwic2Vzc2lvbl9pZCI6Ijg5NDc0MjgyLTE3NzYyMTE3OTItNzg0IiwiY2xpZW50X2lkIjoiOTk5OTAwMDA2MjU3MDEyLS0xNDIzODIzMiIsImRldmljZV9pZCI6Ijg5NDc0MjgyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyODEiLCJzb3VyY2VzIjpbMTQ2XX0=.z1_REXTRn89GJL69nQGAVDKh0JKZAPSWJFZBZvB3Q4M8ip9ytlggB8yMFKXomo0DIk8epcrokCHVqCH6jzsV5Q==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
@@ -605,6 +598,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png"
+            },
+            {
+                "name": "MI TV ",
+                "url": "http://localhost.apppelis.es/solplay/180.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/mi-tv_2fbedc2b66b540a6a8070fe9f50137c6.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "LN+ - LA NACION",
