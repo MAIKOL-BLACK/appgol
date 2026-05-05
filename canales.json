@@ -3061,32 +3061,6 @@
         ]
     },
     {
-        "name": "CHANEL HISTORY",
-        "samples": [
-            {
-                "name": "H2 Chanel",
-                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_720.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "H",
-                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "FREE TV LIVE",
         "samples": [
             {
@@ -3163,6 +3137,32 @@
                 "name": "FREE TV TERROR",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319",
                 "icono": "https://i.postimg.cc/4dxcLRyn/freetvterror.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "CHANEL HISTORY",
+        "samples": [
+            {
+                "name": "H2 Chanel",
+                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_720.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "H",
+                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
