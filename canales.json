@@ -857,13 +857,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FOX SPORT 2",
                 "url": "http://45.5.151.147:8000/play/a00o/index.m3u8?hls",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
@@ -956,6 +949,13 @@
                 "name": "ESPN PREMIUN",
                 "url": "http://38.187.2.124:8000/play/a010/index.m3u8?hls",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
