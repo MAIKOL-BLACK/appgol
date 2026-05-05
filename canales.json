@@ -613,13 +613,6 @@
                 "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
-            },
-            {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -666,6 +659,13 @@
     {
         "name": "Directv Sport 🇦🇷⚽️",
         "samples": [
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "Directv sport 1",
                 "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
