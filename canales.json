@@ -1000,13 +1000,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
             },
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Dazn la liga",
                 "url": "http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31856/index.m3u8",
                 "icono": "",
@@ -1057,6 +1050,13 @@
                 "name": "ESPN 6",
                 "url": "http://190.93.229.30:8000/play/a0b4/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
