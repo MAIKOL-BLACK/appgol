@@ -3399,6 +3399,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FOX SPORTS 3",
+                "url": "http://45.170.130.224:8000/play/a028/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
