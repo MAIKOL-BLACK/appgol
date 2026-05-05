@@ -198,6 +198,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AMERICA TV PY",
+                "url": "http://45.170.130.224:8000/play/a02o/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "POPU TV",
                 "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
                 "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
@@ -208,13 +215,6 @@
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA TV PY",
-                "url": "http://45.170.130.224:8000/play/a02o/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
