@@ -231,6 +231,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "GEN HD",
+                "url": "http://45.170.130.224:8000/play/a04j/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "SUR TV  SD",
                 "url": "http://45.170.130.224:8000/play/a036/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sur-tv_d62a4fd8925b4b228669cdfc58781f1c.png",
@@ -290,13 +297,6 @@
                 "name": "PARAVISION  SD",
                 "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GEN HD",
-                "url": "http://45.170.130.224:8000/play/a04j/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
