@@ -2098,78 +2098,6 @@
         ]
     },
     {
-        "name": "🎬CANALES DE NOVELAS",
-        "samples": [
-            {
-                "name": "AZCORAZON",
-                "url": "http://190.108.89.228:8000/play/a051/index.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
-            },
-            {
-                "name": "Novelísima",
-                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
-                "headers": {
-                    "Referer": "https://player.sensa.com.ar/",
-                    "webtoken": "1.0"
-                }
-            },
-            {
-                "name": "RCN NOVELAS",
-                "url": "http://201.219.193.210:3002/play/a0sk",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
-            },
-            {
-                "name": "TLN",
-                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
-            },
-            {
-                "name": "Canal De Las Estrellas",
-                "url": "http://localhost.apppelis.es/solplay/167.mpd",
-                "type": "HLS",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELENOVELAS",
-                "url": "http://localhost.apppelis.es/solplay/168.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telenovelas_5f4d1ad8fd5e47828047ef72b86c1451.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEMUNDO",
-                "url": "http://localhost.apppelis.es/solplay/169.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telemundo_5bdd66f804a2433d90de8e2aad93f0b2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PASIONES",
-                "url": "http://localhost.apppelis.es/solplay/170.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pasiones_468c3ee872154497a20a8fbfa915189f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TNT NOVELAS",
-                "url": "http://localhost.apppelis.es/solplay/75.mpd",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "DEPORTE ARGENTINA SAT",
         "samples": [
             {
@@ -2253,6 +2181,78 @@
                 "name": "TyC Sports",
                 "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
                 "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "🎬CANALES DE NOVELAS",
+        "samples": [
+            {
+                "name": "AZCORAZON",
+                "url": "http://190.108.89.228:8000/play/a051/index.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
+            },
+            {
+                "name": "Novelísima",
+                "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+                "type": "CLEARKEY",
+                "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
+                "headers": {
+                    "Referer": "https://player.sensa.com.ar/",
+                    "webtoken": "1.0"
+                }
+            },
+            {
+                "name": "RCN NOVELAS",
+                "url": "http://201.219.193.210:3002/play/a0sk",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
+            },
+            {
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+            },
+            {
+                "name": "Canal De Las Estrellas",
+                "url": "http://localhost.apppelis.es/solplay/167.mpd",
+                "type": "HLS",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELENOVELAS",
+                "url": "http://localhost.apppelis.es/solplay/168.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telenovelas_5f4d1ad8fd5e47828047ef72b86c1451.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEMUNDO",
+                "url": "http://localhost.apppelis.es/solplay/169.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telemundo_5bdd66f804a2433d90de8e2aad93f0b2.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "PASIONES",
+                "url": "http://localhost.apppelis.es/solplay/170.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pasiones_468c3ee872154497a20a8fbfa915189f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TNT NOVELAS",
+                "url": "http://localhost.apppelis.es/solplay/75.mpd",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
