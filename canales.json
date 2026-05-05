@@ -3153,6 +3153,13 @@
                 "icono": "",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc1d8219be0130da85e4c4ce73a75abb&key=3e6db98d9df4747108bd896cba0be57d"
+            },
+            {
+                "name": "Dazn f1",
+                "url": "https://canchatv.online/embedslatam/?canal=daznf1&target=3&raw=1",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
