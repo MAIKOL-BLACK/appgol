@@ -275,7 +275,7 @@
             {
                 "name": "PARAVISION  SD",
                 "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
-                "icono": "",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
