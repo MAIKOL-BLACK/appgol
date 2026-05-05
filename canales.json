@@ -3109,6 +3109,13 @@
                 "icono": "https://i.ibb.co/6c776xQ1/popcorn-central.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV ACCION ",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
+                "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
