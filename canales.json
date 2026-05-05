@@ -529,6 +529,18 @@
         ]
     },
     {
+        "name": "EVENTOS⚽️",
+        "samples": [
+            {
+                "name": "21:30hs SUDAMERICANA RECOLETA VS SANTOS",
+                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+                "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            }
+        ]
+    },
+    {
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
@@ -613,18 +625,6 @@
                 "url": "http://190.7.19.197:232/play/a00o/index.m3u8",
                 "type": "CLEARKEY",
                 "icono": "https://i.ibb.co/DPKbYctX/Captura-de-pantalla-2026-02-11-114124.png"
-            }
-        ]
-    },
-    {
-        "name": "EVENTOS⚽️",
-        "samples": [
-            {
-                "name": "21:30hs SUDAMERICANA RECOLETA VS SANTOS",
-                "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-                "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
             }
         ]
     },
