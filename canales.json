@@ -100,16 +100,16 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN 2",
-                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "name": "ESPN Disney+ 2",
+                "url": "http://186.33.54.46:8000/play/a018/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN Disney+ 2",
-                "url": "http://186.33.54.46:8000/play/a018/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "name": "ESPN 2",
+                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
