@@ -1757,13 +1757,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5782156290f035ef28ae66cca252eedd&key=10d8bb6d9f9852747298487ab3c4afa3"
             },
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "HBO XTREME FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
                 "icono": "https://i.postimg.cc/Qdt7skdT/1776028800259.png",
@@ -1834,6 +1827,13 @@
                 "name": "CINE PLEX",
                 "url": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8",
                 "icono": "https://i.postimg.cc/x89RxrBJ/5af711a09831cab3c68f42ff4db9c356.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
