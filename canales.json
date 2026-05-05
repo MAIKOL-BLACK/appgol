@@ -3130,6 +3130,13 @@
                 "icono": "https://i.postimg.cc/RVLHB0th/freetvclasico.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV DRAMA",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316",
+                "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
