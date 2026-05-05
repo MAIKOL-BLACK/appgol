@@ -257,6 +257,13 @@
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "TELEFUTURO PY SD",
+                "url": "https://45.170.130.224:8000/play/a04m/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
