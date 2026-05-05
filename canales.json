@@ -650,6 +650,25 @@
         ]
     },
     {
+        "name": "Directv Sport 🇦🇷⚽️",
+        "samples": [
+            {
+                "name": "Directv sport 1",
+                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Directv Sport plus ",
+                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "🏎Deportes Motors🏁",
         "samples": [
             {
@@ -671,25 +690,6 @@
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "icono": "https://i.ibb.co/B2gdQdrq/24-7-channel.webp",
                 "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "Directv Sport 🇦🇷⚽️",
-        "samples": [
-            {
-                "name": "Directv sport 1",
-                "url": "http://217.26.190.76:8888/play/a0co/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Directv Sport plus ",
-                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
-                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
-                "type": "CLEARKEY",
                 "drm_license_uri": ""
             }
         ]
