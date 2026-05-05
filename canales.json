@@ -1239,6 +1239,95 @@
         ]
     },
     {
+        "name": "DEPORTE ARGENTINA SAT",
+        "samples": [
+            {
+                "name": "ESPN 1",
+                "url": "http://45.170.130.224:8000/play/a01y/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 Latin",
+                "url": "http://45.170.130.224:8000/play/a01x/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://45.170.130.224:8000/play/a03s/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://45.170.130.224:8000/play/a01w/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4sd",
+                "url": "http://45.170.130.224:8000/play/a02k/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN CO",
+                "url": "http://45.170.130.224:8000/play/a034/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TIGO EVENTOS",
+                "url": "http://45.170.130.224:8000/play/a04l/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EVENTOS HD",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX SPORTS",
+                "url": "http://45.170.130.224:8000/play/a027/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "FOX SPORTS 3",
+                "url": "http://45.170.130.224:8000/play/a028/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TyC Sports",
+                "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "DEPORTE BRASIL🇧🇷",
         "samples": [
             {
@@ -1371,95 +1460,6 @@
                 "name": "NSPORT",
                 "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8",
                 "icono": "https://i.postimg.cc/4yGSKzbz/N-Sports-e-NWB-reforcam-lideranca-e-ampliam-operacoes-em-ano-da-Copa-do-Mundo-2026.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "DEPORTE ARGENTINA SAT",
-        "samples": [
-            {
-                "name": "ESPN 1",
-                "url": "http://45.170.130.224:8000/play/a01y/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 Latin",
-                "url": "http://45.170.130.224:8000/play/a01x/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "http://45.170.130.224:8000/play/a03s/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://45.170.130.224:8000/play/a01w/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4sd",
-                "url": "http://45.170.130.224:8000/play/a02k/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN CO",
-                "url": "http://45.170.130.224:8000/play/a034/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TIGO EVENTOS",
-                "url": "http://45.170.130.224:8000/play/a04l/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EVENTOS HD",
-                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORTS",
-                "url": "http://45.170.130.224:8000/play/a027/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "FOX SPORTS 3",
-                "url": "http://45.170.130.224:8000/play/a028/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TyC Sports",
-                "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
