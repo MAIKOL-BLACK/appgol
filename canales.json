@@ -1400,6 +1400,46 @@
         ]
     },
     {
+        "name": "GRAN HERMANO ARG.",
+        "samples": [
+            {
+                "name": "GRAN HERMANO CAM 1",
+                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454926.ts",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GRAN HERMANO CAM 2",
+                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454928.ts",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GRAN HERMANO CAM 3",
+                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GRAN HERMANO  MULTICAMARA",
+                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454930.ts",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GRAN HERMANO ",
+                "url": "https://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "CINE Y SERIES 🎬",
         "samples": [
             {
@@ -1581,46 +1621,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962"
-            }
-        ]
-    },
-    {
-        "name": "GRAN HERMANO ARG.",
-        "samples": [
-            {
-                "name": "GRAN HERMANO CAM 1",
-                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454926.ts",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GRAN HERMANO CAM 2",
-                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454928.ts",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GRAN HERMANO CAM 3",
-                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GRAN HERMANO  MULTICAMARA",
-                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454930.ts",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GRAN HERMANO ",
-                "url": "https://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
