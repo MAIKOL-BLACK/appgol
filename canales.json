@@ -698,13 +698,6 @@
                 "icono": "https://i.ibb.co/B2gdQdrq/24-7-channel.webp",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -752,6 +745,13 @@
                 "icono": "https://i.postimg.cc/vZDNwQvN/1775873512853.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "ESPN MX 1",
