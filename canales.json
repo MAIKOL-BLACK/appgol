@@ -351,6 +351,60 @@
         ]
     },
     {
+        "name": "⏩ESPN DISNEY+ ⏪⚽️",
+        "samples": [
+            {
+                "name": "ESPN Disney+ 1",
+                "url": "http://186.33.54.46:8000/play/a01e/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 2",
+                "url": "http://186.33.54.46:8000/play/a018/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 3",
+                "url": "http://186.33.54.46:8000/play/a019/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 4",
+                "url": "http://186.33.54.46:8000/play/a01a/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 5",
+                "url": "http://186.33.54.46:8000/play/a01b/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 6",
+                "url": "http://186.33.54.46:8000/play/a01c/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN Disney+ 7",
+                "url": "http://186.33.54.46:8000/play/a01d/index.m3u8",
+                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "Deportes Argentina Sin cortes🇦🇷",
         "samples": [
             {
@@ -455,60 +509,6 @@
                 "name": "A24",
                 "url": "http://181.209.105.115:2525/play/a24/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "⏩ESPN DISNEY+ ⏪⚽️",
-        "samples": [
-            {
-                "name": "ESPN Disney+ 1",
-                "url": "http://186.33.54.46:8000/play/a01e/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 2",
-                "url": "http://186.33.54.46:8000/play/a018/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 3",
-                "url": "http://186.33.54.46:8000/play/a019/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 4",
-                "url": "http://186.33.54.46:8000/play/a01a/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 5",
-                "url": "http://186.33.54.46:8000/play/a01b/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 6",
-                "url": "http://186.33.54.46:8000/play/a01c/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN Disney+ 7",
-                "url": "http://186.33.54.46:8000/play/a01d/index.m3u8",
-                "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
