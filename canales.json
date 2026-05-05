@@ -586,13 +586,6 @@
         "name": "ARGENTINA🇦🇷",
         "samples": [
             {
-                "name": "EL TRECE HD Arg",
-                "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "AMERICA TV ",
                 "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
                 "type": "CLEARKEY",
@@ -633,6 +626,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png"
+            },
+            {
+                "name": "EL TRECE HD Arg",
+                "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "C5N",
