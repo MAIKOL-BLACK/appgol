@@ -1223,13 +1223,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN 3 BR",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8",
-                "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 4 BR",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
@@ -1246,6 +1239,13 @@
             {
                 "name": "ESPN 6",
                 "url": "http://45.185.15.154:8000/play/a08d/index.m3u8",
+                "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 BR",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn3.m3u8",
                 "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
