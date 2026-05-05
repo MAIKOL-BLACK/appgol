@@ -3186,6 +3186,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ANIMAL PLANET",
+                "url": "http://45.170.130.224:8000/play/a01t/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
