@@ -553,6 +553,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 2",
+                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CRONICA TV",
                 "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd",
                 "type": "CLEARKEY",
@@ -591,13 +598,6 @@
                 "name": "GRAN HERMANO CAM 3",
                 "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
                 "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
