@@ -3085,5 +3085,17 @@
                 "drm_license_uri": ""
             }
         ]
+    },
+    {
+        "name": "FREE TV LIVE",
+        "samples": [
+            {
+                "name": "FREE TV CRIMEN",
+                "url": "https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8",
+                "icono": "https://i.postimg.cc/4dvyskyh/freetv-crime.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
     }
 ]
