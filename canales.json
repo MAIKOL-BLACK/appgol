@@ -553,13 +553,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "C5N Arg",
-                "url": "http://181.209.105.115:2525/play/c5n/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "CRONICA",
                 "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
@@ -633,6 +626,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png"
+            },
+            {
+                "name": "C5N Arg",
+                "url": "http://181.209.105.115:2525/play/c5n/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "MI TV ",
