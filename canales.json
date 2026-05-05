@@ -3137,6 +3137,13 @@
                 "icono": "https://i.postimg.cc/GpJ9n7V2/freetvdrama.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "FREE TV ESTELAR",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318",
+                "icono": "https://i.postimg.cc/26t10qgL/freetvfamilia.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
