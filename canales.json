@@ -1703,13 +1703,6 @@
                 "url": "https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MTMwMTQ4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMDliYWZiOGUxYjYzNjdkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.QCNlV5hGX-_rRjhu-mAh8tzGVvASa0ZqXnGGBtbeD5vFzZNHkVvQuNVXp2GX-f8-rzYYP0f963KQota_8bZcyA==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
             },
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "HBO 2 FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd",
                 "icono": "https://i.postimg.cc/Y0cRLLZ4/1776026841174.png",
@@ -1762,6 +1755,13 @@
                 "icono": "https://i.postimg.cc/jdYvs1pS/1776028660137.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5782156290f035ef28ae66cca252eedd&key=10d8bb6d9f9852747298487ab3c4afa3"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "HBO XTREME FHD",
