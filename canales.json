@@ -170,6 +170,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "C9N SD",
+                "url": "http://45.170.130.224:8000/play/a033/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "GEN TV",
                 "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
@@ -222,13 +229,6 @@
                 "name": "AMERICA TV PY",
                 "url": "http://45.170.130.224:8000/play/a02o/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "C9N SD",
-                "url": "http://45.170.130.224:8000/play/a033/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
