@@ -588,6 +588,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "GRAN HERMANO CAM 3",
+                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
+                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 2",
                 "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -636,13 +643,6 @@
             {
                 "name": "GRAN HERMANO CAM 2",
                 "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454928.ts",
-                "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GRAN HERMANO CAM 3",
-                "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
                 "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
