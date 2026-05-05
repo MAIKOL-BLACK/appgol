@@ -1054,13 +1054,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 7",
                 "url": "http://190.93.229.30:8000/play/a0hs/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
@@ -1133,6 +1126,13 @@
     {
         "name": "ESPN COLOMBIA🇨🇴",
         "samples": [
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
             {
                 "name": "ESPN 1 ",
                 "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
