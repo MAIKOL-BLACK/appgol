@@ -3378,6 +3378,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN HD",
+                "url": "http://45.170.130.224:8000/play/a04l/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
