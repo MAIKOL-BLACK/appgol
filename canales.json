@@ -167,116 +167,6 @@
         ]
     },
     {
-        "name": "Deportes Argentina Sin cortes🇦🇷",
-        "samples": [
-            {
-                "name": "ESPN 1 HD",
-                "url": "http://181.209.105.115:2525/play/espn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 HD",
-                "url": "http://181.209.105.115:2525/play/espn2/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3 HD",
-                "url": "http://181.209.105.115:2525/play/espn3/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4 HD",
-                "url": "http://181.209.105.115:2525/play/espn4/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox sport 1",
-                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
-                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox Sport 2",
-                "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
-                "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox sport 3",
-                "url": "http://181.209.105.115:2525/play/foxsports3/index.m3u8",
-                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TELEFE",
-                "url": "http://181.209.105.115:2525/play/telefe/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AMERICA TV",
-                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TN HD",
-                "url": "http://181.209.105.115:2525/play/tn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "EL TRECE HD",
-                "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "C5N",
-                "url": "http://181.209.105.115:2525/play/c5n/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CRONICA",
-                "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "A24",
-                "url": "http://181.209.105.115:2525/play/a24/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "PARAGUAY🇵🇾",
         "samples": [
             {
@@ -457,6 +347,116 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            }
+        ]
+    },
+    {
+        "name": "Deportes Argentina Sin cortes🇦🇷",
+        "samples": [
+            {
+                "name": "ESPN 1 HD",
+                "url": "http://181.209.105.115:2525/play/espn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 HD",
+                "url": "http://181.209.105.115:2525/play/espn2/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 HD",
+                "url": "http://181.209.105.115:2525/play/espn3/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4 HD",
+                "url": "http://181.209.105.115:2525/play/espn4/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox sport 1",
+                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox Sport 2",
+                "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
+                "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox sport 3",
+                "url": "http://181.209.105.115:2525/play/foxsports3/index.m3u8",
+                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TELEFE",
+                "url": "http://181.209.105.115:2525/play/telefe/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA TV",
+                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TN HD",
+                "url": "http://181.209.105.115:2525/play/tn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "EL TRECE HD",
+                "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "C5N",
+                "url": "http://181.209.105.115:2525/play/c5n/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CRONICA",
+                "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "A24",
+                "url": "http://181.209.105.115:2525/play/a24/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
