@@ -695,6 +695,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 2",
+                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Fox Sport 2",
                 "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
@@ -750,13 +757,6 @@
                 "name": "Motor Sur🇵🇾🏎",
                 "url": "https://edge.enhdtv.com/8116/index.m3u8",
                 "icono": "https://i.ibb.co/7dQQJ95v/FB-IMG-1777518070722.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://45.170.130.224:8000/play/a01p/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
