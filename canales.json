@@ -628,13 +628,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "TN HD Arg",
-                "url": "http://181.209.105.115:2525/play/tn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "A24 Arg",
                 "url": "http://181.209.105.115:2525/play/a24/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png",
@@ -647,6 +640,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/a24-py_4333475ad77c4f58840cf94e63227386.png"
+            },
+            {
+                "name": "TN HD Arg",
+                "url": "http://181.209.105.115:2525/play/tn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "TN NOTICIAS",
