@@ -1127,13 +1127,6 @@
         "name": "ESPN COLOMBIA🇨🇴",
         "samples": [
             {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "ESPN 1 ",
                 "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -1207,6 +1200,13 @@
                 "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "PREMIERE 4",
