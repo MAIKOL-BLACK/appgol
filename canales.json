@@ -3165,6 +3165,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "AE MUNDO",
+                "url": "https://45.170.130.224:8000/play/a022/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
