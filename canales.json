@@ -544,13 +544,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
-            },
-            {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -619,6 +612,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png"
+            },
+            {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "A24",
