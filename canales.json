@@ -551,13 +551,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "CRONICA",
-                "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -654,6 +647,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png"
+            },
+            {
+                "name": "CRONICA",
+                "url": "http://181.209.105.115:2525/play/cronica/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cronica-tv_fdc9a0addfce4cafbcf87b124f032f06.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "A24",
