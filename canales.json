@@ -688,13 +688,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "Fox sport 1",
-                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
-                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Fox Sport 2",
                 "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
@@ -712,6 +705,13 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox sport 1",
+                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
