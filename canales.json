@@ -1872,13 +1872,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e5e43e324b6cd33b92c9ac8c398bb3c8&key=c8c7f804f0ecfc8fc0d53dff48d7ece1"
             },
             {
-                "name": "HBO FAMILY FHD",
-                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
-                "icono": "https://i.postimg.cc/P5f4Dj38/1776026960436.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b15c86e64344e8802b06b806957c5&key=114983add26911b589595d931b505ca5"
-            },
-            {
                 "name": "HBO MUNDI FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
                 "icono": "https://i.postimg.cc/qv7sRGqc/1776027059107.png",
@@ -1919,6 +1912,13 @@
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3a908a5d38a9c496ced27faa6bf5ff8e&key=85a5835a92bd7f87faf5ffbcb8814d33"
+            },
+            {
+                "name": "HBO FAMILY FHD",
+                "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
+                "icono": "https://i.postimg.cc/P5f4Dj38/1776026960436.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b15c86e64344e8802b06b806957c5&key=114983add26911b589595d931b505ca5"
             },
             {
                 "name": "HBO MOSAICO FHD",
