@@ -2985,6 +2985,25 @@
         ]
     },
     {
+        "name": "SERIES",
+        "samples": [
+            {
+                "name": "MONARCH",
+                "url": "https://zmedghe.rqsglwdvh.com/vod/73B5600341BF44D7BBCDBF2185F6A6B5_media.mp4",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MONARCH CAPITULI 2 ",
+                "url": "https://zmedghe.rqsglwdvh.com/vod/D09C6790FD924F08B2A2BA14253671F9_media.mp4",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "Deportes Argentina Sin cortes🇦🇷",
         "samples": [
             {
@@ -3040,25 +3059,6 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "SERIES",
-        "samples": [
-            {
-                "name": "MONARCH",
-                "url": "https://zmedghe.rqsglwdvh.com/vod/73B5600341BF44D7BBCDBF2185F6A6B5_media.mp4",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MONARCH CAPITULI 2 ",
-                "url": "https://zmedghe.rqsglwdvh.com/vod/D09C6790FD924F08B2A2BA14253671F9_media.mp4",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
