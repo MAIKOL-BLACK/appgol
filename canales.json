@@ -1914,6 +1914,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a"
             },
             {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "UNIVERSAL CRIMEN",
                 "url": "https://nog-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
                 "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
@@ -1933,13 +1940,6 @@
                 "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
-            },
-            {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "UNIVERSAL CINEMA",
