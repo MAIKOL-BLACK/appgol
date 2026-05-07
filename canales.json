@@ -63,7 +63,7 @@
             },
             {
                 "name": "Pluto",
-                "url": "https://mcdn-01.plutotv.net",
+                "url": "http://cmorales.alwaysdata.net/fibernet/canales.m3u",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
