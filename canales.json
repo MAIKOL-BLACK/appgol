@@ -2481,67 +2481,6 @@
         ]
     },
     {
-        "name": "Deportes Argentina Sin cortes🇦🇷",
-        "samples": [
-            {
-                "name": "ESPN 1 HD",
-                "url": "http://181.209.105.115:2525/play/espn/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2 HD",
-                "url": "http://181.209.105.115:2525/play/espn2/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3 HD",
-                "url": "http://181.209.105.115:2525/play/espn3/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4 HD",
-                "url": "http://181.209.105.115:2525/play/espn4/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox sport 1",
-                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
-                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox Sport 2",
-                "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
-                "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Fox sport 3",
-                "url": "http://181.209.105.115:2525/play/foxsports3/index.m3u8",
-                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN PREMIUM",
-                "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
-                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "PACK PREMIUM VERSION BRASILERA",
         "samples": [
             {
@@ -2653,6 +2592,67 @@
                 "name": "Glob",
                 "url": "https://canaiss.fazoeli.co.za/fontes/smart/gloob.m3u8",
                 "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "Deportes Argentina Sin cortes🇦🇷",
+        "samples": [
+            {
+                "name": "ESPN 1 HD",
+                "url": "http://181.209.105.115:2525/play/espn/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2 HD",
+                "url": "http://181.209.105.115:2525/play/espn2/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3 HD",
+                "url": "http://181.209.105.115:2525/play/espn3/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4 HD",
+                "url": "http://181.209.105.115:2525/play/espn4/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox sport 1",
+                "url": "http://181.209.105.115:2525/play/foxsports/index.m3u8",
+                "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox Sport 2",
+                "url": "http://181.209.105.115:2525/play/foxsports2/index.m3u8",
+                "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Fox sport 3",
+                "url": "http://181.209.105.115:2525/play/foxsports3/index.m3u8",
+                "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN PREMIUM",
+                "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
+                "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
