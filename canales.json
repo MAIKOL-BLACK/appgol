@@ -743,7 +743,7 @@
             },
             {
                 "name": "Directv Sport plus ",
-                "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+                "url": "http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8 ",
                 "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
