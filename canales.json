@@ -780,13 +780,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "FOX ONE 2",
-                "url": "http://74.208.30.121/a181/tracks-v1a1/mono.m3u8",
-                "icono": "https://i.postimg.cc/L6Bdsp5V/fox-one-ya-esta-presente.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "FOX ONE EXTRA",
                 "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
                 "icono": "https://i.postimg.cc/g2pC99Tg/1775872517324.png",
@@ -806,6 +799,13 @@
                 "icono": "https://i.postimg.cc/ydtwvTrC/unnamed-(1).png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b"
+            },
+            {
+                "name": "FOX ONE 2",
+                "url": "http://74.208.30.121/a181/tracks-v1a1/mono.m3u8",
+                "icono": "https://i.postimg.cc/L6Bdsp5V/fox-one-ya-esta-presente.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "FOX +",
