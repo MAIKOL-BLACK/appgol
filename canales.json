@@ -90,7 +90,7 @@
             {
                 "name": "DIRECTV SPORTS ",
                 "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
-                "icono": "",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
