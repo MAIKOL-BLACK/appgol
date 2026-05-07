@@ -1679,7 +1679,7 @@
             {
                 "name": "CINEMAX Sat",
                 "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinemax_e5e6fc301883462d9cf7ab26746f953d.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
