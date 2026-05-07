@@ -2344,13 +2344,6 @@
         "name": "BRASIL🇧🇷",
         "samples": [
             {
-                "name": "SBT",
-                "url": "http://45.170.130.224:8000/play/a04g/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "RECORD ",
                 "url": "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
@@ -2368,6 +2361,13 @@
                 "name": "BAND ",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "SBT",
+                "url": "http://45.170.130.224:8000/play/a04g/index.m3u8",
+                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
