@@ -86,6 +86,13 @@
                 "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+            },
+            {
+                "name": "DIRECTV SPORTS ",
+                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
