@@ -60,6 +60,13 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Pluto",
+                "url": "https://mcdn-01.plutotv.net",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
