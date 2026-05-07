@@ -1839,6 +1839,13 @@
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6 "
             },
             {
+                "name": "CINEMAX",
+                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO Plus",
                 "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MjkwMDU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiZTEwYzFjYmEwZDc5ZjBmOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ABeWaQSz6t7CcApWp07hT51IrWsck7N9PPFA9FYyE4_0550W0Ft8D39ozDbjyKBditTvFrTL9DPQT9OBlsRHPw==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
                 "type": "CLEARKEY",
@@ -1912,13 +1919,6 @@
                 "icono": "https://i.postimg.cc/Qdt7skdT/1776028800259.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=bc8d4369fcff86db765db82356b4797c&key=8a7e801dbc275e3f4e1f43cba648906a"
-            },
-            {
-                "name": "CINEMAX",
-                "url": "http://45.170.130.224:8000/play/a03e/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "UNIVERSAL CRIMEN",
