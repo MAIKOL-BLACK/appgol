@@ -1051,6 +1051,60 @@
         ]
     },
     {
+        "name": "DEPORTE ESPAÑA🇪🇸",
+        "samples": [
+            {
+                "name": "Movistar La Liga",
+                "url": "http://latam-cache-sv2-cdn.latamlive.net/MLALIGA_IP_ENC_TEMPORAL/index.mpd",
+                "icono": "https://i.postimg.cc/DzSt4jbD/images-(4).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Liga de Campeones",
+                "url": "http://latam-cache-sv2-cdn.latamlive.net/MLIGADECAMPEONES_IP_ENC_TEMPORAL/index.mpd",
+                "icono": "https://i.postimg.cc/j2c8FP7y/images-(5).png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "LA LIGA TV",
+                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+                "icono": "https://i.postimg.cc/1XsFhcLJ/1775875209806.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+            },
+            {
+                "name": "Sky Sport La liga FHD",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.postimg.cc/7LqrzCry/1775875546913.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
+            },
+            {
+                "name": "Sky Sport",
+                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
+                "icono": "https://i.postimg.cc/Njx8DfCz/65af1b4b7208632218285acd-The-Premier-League-Team-Of-The-Season-SO-FAR-Saturday-Social.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+            },
+            {
+                "name": "Sky Sport Bundesliga",
+                "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
+                "icono": "https://i.postimg.cc/FR00frSP/Picsart-26-04-12-20-04-54-664.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
+            },
+            {
+                "name": "Dazn la liga",
+                "url": "http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31856/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "Deportes Argentina Sin cortes🇦🇷",
         "samples": [
             {
@@ -1106,60 +1160,6 @@
                 "name": "ESPN PREMIUM",
                 "url": "http://181.209.105.115:2525/play/espnpremium/index.m3u8",
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "DEPORTE ESPAÑA🇪🇸",
-        "samples": [
-            {
-                "name": "Movistar La Liga",
-                "url": "http://latam-cache-sv2-cdn.latamlive.net/MLALIGA_IP_ENC_TEMPORAL/index.mpd",
-                "icono": "https://i.postimg.cc/DzSt4jbD/images-(4).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Liga de Campeones",
-                "url": "http://latam-cache-sv2-cdn.latamlive.net/MLIGADECAMPEONES_IP_ENC_TEMPORAL/index.mpd",
-                "icono": "https://i.postimg.cc/j2c8FP7y/images-(5).png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "LA LIGA TV",
-                "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-                "icono": "https://i.postimg.cc/1XsFhcLJ/1775875209806.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
-            },
-            {
-                "name": "Sky Sport La liga FHD",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.postimg.cc/7LqrzCry/1775875546913.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            },
-            {
-                "name": "Sky Sport",
-                "url": "https://aca-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-                "icono": "https://i.postimg.cc/Njx8DfCz/65af1b4b7208632218285acd-The-Premier-League-Team-Of-The-Season-SO-FAR-Saturday-Social.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
-            },
-            {
-                "name": "Sky Sport Bundesliga",
-                "url": "https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd",
-                "icono": "https://i.postimg.cc/FR00frSP/Picsart-26-04-12-20-04-54-664.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=d8d5823d92a9ef9306a4cc4bd634b4b4&key=df9fbdaa0ef9e905b75f4692f213af19"
-            },
-            {
-                "name": "Dazn la liga",
-                "url": "http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31856/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
