@@ -67,6 +67,13 @@
         "name": "EVENTOS⚽️",
         "samples": [
             {
+                "name": "DIRECTV SPORTS ",
+                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "16:00hs UEFA CHAMPIONS LEAGUE 2025/26 - SEMIFINALES PARÍS VS BAYER",
                 "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MjkwMDU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiZTEwYzFjYmEwZDc5ZjBmOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ABeWaQSz6t7CcApWp07hT51IrWsck7N9PPFA9FYyE4_0550W0Ft8D39ozDbjyKBditTvFrTL9DPQT9OBlsRHPw==/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
                 "icono": "https://i.ibb.co/vCrXKmfp/1777995610438.png",
@@ -86,13 +93,6 @@
                 "icono": "https://i.ibb.co/twg8HGcg/Picsart-26-05-05-12-34-00-293.jpg",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-            },
-            {
-                "name": "DIRECTV SPORTS ",
-                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
