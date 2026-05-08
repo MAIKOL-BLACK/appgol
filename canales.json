@@ -2431,6 +2431,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Cortafuego 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/BEE301FD224047F9BE2CEB8F546EDE7D_media.mp4",
                 "icono": "https://i.postimg.cc/Zn2k2tyX/1775159311312.png",
@@ -2469,13 +2476,6 @@
                 "name": "Peaky Blinders: El hombre inmortal 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/61E7F16DEDB74E889F6FE5A60B3C27F1_media.mp4",
                 "icono": "https://i.postimg.cc/gjCS337B/Peaky-Blinders-El-hombre-inmortal-336453060-large.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
