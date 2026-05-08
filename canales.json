@@ -161,6 +161,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "SNT SD",
                 "url": "http://45.170.130.224:8000/play/a013/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -199,13 +206,6 @@
                 "name": "NPY",
                 "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
