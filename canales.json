@@ -2234,6 +2234,13 @@
         "name": "BRASIL🇧🇷",
         "samples": [
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BAND ",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
@@ -2327,13 +2334,6 @@
     {
         "name": "FREE TV LIVE",
         "samples": [
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "FREE TV ACCION ",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
