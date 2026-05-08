@@ -2159,6 +2159,13 @@
         "name": "INFANTILES 👦",
         "samples": [
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "PLIM PLIM",
                 "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MjkwMDU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiZTEwYzFjYmEwZDc5ZjBmOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ABeWaQSz6t7CcApWp07hT51IrWsck7N9PPFA9FYyE4_0550W0Ft8D39ozDbjyKBditTvFrTL9DPQT9OBlsRHPw==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
                 "type": "CLEARKEY",
@@ -2233,13 +2240,6 @@
     {
         "name": "BRASIL🇧🇷",
         "samples": [
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "BAND ",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
