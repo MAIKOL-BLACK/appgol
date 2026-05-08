@@ -1398,6 +1398,13 @@
                 "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "beINSports1 AU",
                 "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
                 "icono": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
@@ -1474,13 +1481,6 @@
                 "name": "Mls Eventos",
                 "url": "",
                 "icono": "https://i.postimg.cc/mZ8v43ry/1775963351710.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
