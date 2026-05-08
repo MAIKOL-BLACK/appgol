@@ -2701,6 +2701,13 @@
         "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷()",
         "samples": [
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 1",
                 "url": "https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4MjkwMDU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiZTEwYzFjYmEwZDc5ZjBmOSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ABeWaQSz6t7CcApWp07hT51IrWsck7N9PPFA9FYyE4_0550W0Ft8D39ozDbjyKBditTvFrTL9DPQT9OBlsRHPw==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                 "type": "CLEARKEY",
@@ -2802,13 +2809,6 @@
                 "name": "DIRECTV SPORT 2",
                 "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
