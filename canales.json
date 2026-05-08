@@ -815,6 +815,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FOX ONE EXTRA",
                 "url": "https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8",
                 "icono": "https://i.postimg.cc/g2pC99Tg/1775872517324.png",
@@ -921,13 +928,6 @@
                 "name": "ESPN 4",
                 "url": "http://45.170.130.224:8000/play/a01w/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
