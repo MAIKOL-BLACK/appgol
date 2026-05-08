@@ -2328,6 +2328,13 @@
         "name": "FREE TV LIVE",
         "samples": [
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FREE TV ACCION ",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
                 "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
@@ -2427,13 +2434,6 @@
                 "name": "El Engaño 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/D9AB4A82610C42DF8CD1C4C98F175E0D_media.mp4",
                 "icono": "https://i.postimg.cc/MKntpfhv/1775160643215.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
