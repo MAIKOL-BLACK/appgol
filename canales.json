@@ -2806,6 +2806,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORT 2",
                 "url": "http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.postimg.cc/tCGbWc6y/download-(55).png",
@@ -2831,13 +2838,6 @@
     {
         "name": "INTERIOR PY",
         "samples": [
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "Canal 20",
                 "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
