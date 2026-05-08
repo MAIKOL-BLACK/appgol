@@ -1347,6 +1347,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
             },
             {
+                "name": "CNN ESPAÑOL",
+                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CAZÉ TV 3",
                 "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
                 "icono": "https://i.postimg.cc/XJjjwygm/cazetv-logo-0-2048x2048-Easy-Resize-com-(1).jpg",
@@ -1396,13 +1403,6 @@
                 "url": "http://190.60.37.118:4000/play/a0bw",
                 "type": "HLS",
                 "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
-            },
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://45.170.130.224:8000/play/a01b/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "beINSports1 AU",
