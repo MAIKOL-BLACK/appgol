@@ -2255,16 +2255,16 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "AGRO CANAL",
-                "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1004797184.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
+                "name": "REDES BRASIL",
+                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+                "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "REDES BRASIL",
-                "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
-                "icono": "https://i.postimg.cc/FzPSVX88/images-(11).jpg",
+                "name": "AGRO CANAL",
+                "url": "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1004797184.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/agro-canal_49491f3da3d2411b80b6ea1a137ad9b6.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
