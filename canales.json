@@ -2248,13 +2248,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "REDE TV",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/redetv.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/rede-tv_90b5423b189a4c43b1d86b3bfd12eee5.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "CNN BRASIL",
                 "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
                 "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
