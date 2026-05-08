@@ -2302,13 +2302,6 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Bras",
-                "url": "http://cmorales.alwaysdata.net/fibernet/canales.m3u",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
