@@ -1312,13 +1312,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
             },
             {
-                "name": "ESPN 2 BR",
-                "url": "https://canaiss.fazoeli.co.za/fontes/smart/espn2.m3u8",
-                "icono": "https://i.postimg.cc/KcMCvYFR/619146924380d.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "Sportv",
                 "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
                 "icono": "https://i.postimg.cc/3xsnqX4B/Sportv-nova-logo.webp",
