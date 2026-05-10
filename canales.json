@@ -67,13 +67,6 @@
         "name": "EVENTOS⚽️",
         "samples": [
             {
-                "name": "DIRECTV SPORTS ",
-                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
                 "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
                 "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
