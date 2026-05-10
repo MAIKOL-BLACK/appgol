@@ -2292,7 +2292,7 @@
             {
                 "name": "SBT",
                 "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-                "icono": "",
+                "icono": "https://upload.wikimedia.org/wikipedia/en/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
