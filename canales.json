@@ -79,13 +79,6 @@
                 "icono": "https://i.ibb.co/vCrXKmfp/1777995610438.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d"
-            },
-            {
-                "name": "19:00hs CONMEBOL-LIBERTADORES",
-                "url": "https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NDY0MzkyIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiZjI3YzkwNWFmYTQzNTUxNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.ceVFDJKGh8LTACLzEtHaKHoEJIQ4gKHoQ5lkCz1VF5jjOSLMwc8pekNFT0xyMo6RLFkef1METSQ-ekln23FTHg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-                "icono": "https://i.ibb.co/1Yb1dqxN/IMG-20260505-WA0134.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0"
             }
         ]
     },
