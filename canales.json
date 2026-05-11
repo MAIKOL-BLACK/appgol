@@ -715,13 +715,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            },
-            {
                 "name": "FOX SPORT 2",
                 "url": "http://45.5.151.147:8000/play/a00o/index.m3u8?hls",
                 "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
@@ -767,6 +760,13 @@
                 "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
             }
         ]
     },
