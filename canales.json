@@ -312,13 +312,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png"
             },
             {
-                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            },
-            {
                 "name": "HEI NEW",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjEwNTAyIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzE1YjA3YjZlNjQxNjRhZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xJfoZuz0PYv2r8RW1K14n4plpb6vemWZRw1OcfYI4rYHYZqSzCiKAm1D_pRcWwrbEWQiJpNblsb7RNj08tn8tg==/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd",
                 "type": "CLEARKEY",
@@ -404,6 +397,13 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png"
+            },
+            {
+                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
             },
             {
                 "name": "C9N  ",
