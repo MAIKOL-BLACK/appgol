@@ -633,13 +633,6 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            },
-            {
                 "name": "GRAN HERMANO CAM 3",
                 "url": "http://faceredes.xyz:80//live/zavaleta/v290725v/454929.ts",
                 "icono": "https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg",
@@ -720,6 +713,13 @@
                 "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
             },
             {
                 "name": "FOX SPORT 2",
