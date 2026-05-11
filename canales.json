@@ -49,7 +49,7 @@
             },
             {
                 "name": "TIGO 24/7  Opc.2",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin2/toplatin2/playlist.m3u8",
+                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
