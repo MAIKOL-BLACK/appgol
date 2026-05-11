@@ -399,13 +399,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png"
             },
             {
-                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            },
-            {
                 "name": "C9N  ",
                 "url": "https://qn-01282-mun-1-04-2---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2Mzg0NTkyIiwic2lwIjoiMTkwLjE3NS40OC4xMzUiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZTE3ZDVjNjcxNDIxZTE2Iiwic2Vzc2lvbl9pZCI6Ijg5NDc0MjgyLTE3NzYyMTE3OTItNzg0IiwiY2xpZW50X2lkIjoiOTk5OTAwMDA2MjU3MDEyLS0xNDIzODIzMiIsImRldmljZV9pZCI6Ijg5NDc0MjgyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyODEiLCJzb3VyY2VzIjpbMTQ2XX0=.z1_REXTRn89GJL69nQGAVDKh0JKZAPSWJFZBZvB3Q4M8ip9ytlggB8yMFKXomo0DIk8epcrokCHVqCH6jzsV5Q==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
                 "type": "CLEARKEY",
@@ -481,6 +474,13 @@
     {
         "name": "ARGENTINA🇦🇷",
         "samples": [
+            {
+                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
+            },
             {
                 "name": "AMERICA TV ",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjEwNTAyIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzE1YjA3YjZlNjQxNjRhZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xJfoZuz0PYv2r8RW1K14n4plpb6vemWZRw1OcfYI4rYHYZqSzCiKAm1D_pRcWwrbEWQiJpNblsb7RNj08tn8tg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
