@@ -15,13 +15,6 @@
                 }
             },
             {
-                "name": "TIGO SPORT ",
-                "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
                 "name": "EVENTOS 2",
                 "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -32,6 +25,13 @@
                     "Referer": "https://portal.app.flow.com.py/",
                     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
                 }
+            },
+            {
+                "name": "TIGO SPORT ",
+                "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
+                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             },
             {
                 "name": "Tigo 1 en vivo",
