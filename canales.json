@@ -34,6 +34,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2245f48a5998442f835099d30f2e0305&key=f48f6ce816fe86d8c10587e9a7e927a3"
             },
             {
+                "name": "Tigo 1 en vivo",
+                "url": "http://rlatinop.com:8880/live/xtream2323XSTREA/gphzPzzWFcRb/502914.m3u8?_cb=1776094549343",
+                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TIGO 24/7  Opc.2",
                 "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
@@ -43,13 +50,6 @@
             {
                 "name": "TIGO SPORT ",
                 "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
-                "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Tigo 1 en vivo",
-                "url": "http://rlatinop.com:8880/live/xtream2323XSTREA/gphzPzzWFcRb/502914.m3u8?_cb=1776094549343",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
