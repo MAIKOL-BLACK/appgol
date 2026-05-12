@@ -1684,6 +1684,13 @@
                 "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "HBO XTREME",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjEwNTAyIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzE1YjA3YjZlNjQxNjRhZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xJfoZuz0PYv2r8RW1K14n4plpb6vemWZRw1OcfYI4rYHYZqSzCiKAm1D_pRcWwrbEWQiJpNblsb7RNj08tn8tg==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
                 "type": "CLEARKEY",
@@ -1769,13 +1776,6 @@
                 "type": "CLEARKEY",
                 "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
                 "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6 "
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "HBO Plus",
