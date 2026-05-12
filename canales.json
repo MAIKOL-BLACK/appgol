@@ -892,6 +892,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "ESPN 3 MX",
+                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
+                "icono": "https://i.postimg.cc/FKY12n1t/1775873019046.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
+            },
+            {
                 "name": "ESPN MX 1",
                 "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
                 "icono": "https://i.postimg.cc/N0dq7NbW/channels4-profile-(2).jpg",
@@ -904,13 +911,6 @@
                 "icono": "https://i.postimg.cc/rpfC9H32/1775873130179.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=faa2d2197cc44dc154650bbacb0dc238&key=9859d70c856660e20bbe6896f9cd3048"
-            },
-            {
-                "name": "ESPN 3 MX",
-                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
-                "icono": "https://i.postimg.cc/FKY12n1t/1775873019046.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
             },
             {
                 "name": "ESPN 4 MX",
