@@ -100,19 +100,19 @@
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "CANALES PARAGUAYO",
-        "samples": [
+            },
             {
                 "name": "AL NASSR VS AL HILAL",
                 "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
                 "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "CANALES PARAGUAYO",
+        "samples": [
             {
                 "name": "SNT",
                 "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
