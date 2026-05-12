@@ -847,6 +847,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "DEPORTE MEXICO🇲🇽",
         "samples": [
             {
@@ -934,10 +938,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48"
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "DEPORTE ARGENTINA SAT",
