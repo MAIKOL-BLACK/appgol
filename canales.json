@@ -2827,6 +2827,13 @@
                 "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png"
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DIRECTV SPORT",
                 "url": "http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8",
                 "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
@@ -2945,13 +2952,6 @@
                 "name": "CINECANAL",
                 "url": "http://45.170.130.224:8000/play/a00t/index.m3u8",
                 "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
