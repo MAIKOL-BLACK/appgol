@@ -464,6 +464,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
+            },
+            {
+                "name": "AMERICA TV  Arg",
+                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
@@ -476,13 +483,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png"
-            },
-            {
-                "name": "AMERICA TV  Arg",
-                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "CANAL 9 ",
