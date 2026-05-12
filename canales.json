@@ -2341,6 +2341,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "TELEMUNDO INTERNACIONAL",
         "samples": [
             {
@@ -2372,10 +2376,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "FREE TV LIVE",
