@@ -2592,6 +2592,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "CINES VARIADOS 24/7",
         "samples": [
             {
@@ -2651,10 +2655,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "RUNTIME CINE PREMIUM",
