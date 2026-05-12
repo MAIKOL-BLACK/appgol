@@ -2839,8 +2839,8 @@
         "name": "CHANEL HISTORY",
         "samples": [
             {
-                "name": "HISTORY",
-                "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8",
+                "name": "HISTORY CHANNEL",
+                "url": "http://45.170.130.224:8000/play/a051/index.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
