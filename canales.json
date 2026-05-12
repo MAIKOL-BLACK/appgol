@@ -699,6 +699,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "⚽️DEPORTES ESPN Y FOX SPORT ARGENTINA🇦🇷",
         "samples": [
             {
@@ -793,10 +797,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "Directv Sport 🇦🇷⚽️",
