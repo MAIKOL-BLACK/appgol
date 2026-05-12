@@ -2456,6 +2456,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "🎬NETFLIX  ESTRENO 2026",
         "samples": [
             {
@@ -2550,10 +2554,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "ESPECIAL HALLOWEN ",
