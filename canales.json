@@ -1415,6 +1415,13 @@
                 "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "RALLY TV",
                 "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
                 "type": "HLS",
@@ -1523,13 +1530,6 @@
                 "name": "Boxeo Tv",
                 "url": "http://108.181.2.153:8080/live/xtream2323XSTREA/gphzPzzWFcRb/519024.m3u8?_cb=1776093328789&token=ThUKWEAMEQgXBl0FVAxTAgVSCQgFUVJXUlZSUgdSVVdQAlNcV1AFBgdGFERDTREDVwlnWVRBDAQGXQZXVhxAFEZSEGZaABEIF1AJUgAPU0QaRkxZXQYUCwdIFBULVEBbW0IOVR9GVkpBAUoIUVU8AlMSUVNVQQxfQghaSUBfDD5RUg9YXQARCBdVGkoSUBAWFF5WRVwPGhNVDUIXA0QHQw9ZF1VfSBFRWhFWEkJAQVwUNGESHEFTSUMBWBYLXwxDDxUPCkZcER4XDUs5QlwQEkQBWV1VERQLFVQUSUBdAxlqVA1XXQFQRlwLVhUSA0FVFEgaXV8NX0VYFmkVC1RAW1tCDlVO",
                 "icono": "https://i.postimg.cc/MTN5dGDB/images-(16).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
