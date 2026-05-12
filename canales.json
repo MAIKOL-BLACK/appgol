@@ -2269,6 +2269,13 @@
         "name": "BRASIL🇧🇷",
         "samples": [
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "BAND ",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
@@ -2354,13 +2361,6 @@
                 "name": "TELEMUNDO 3",
                 "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
