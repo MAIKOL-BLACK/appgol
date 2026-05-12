@@ -817,6 +817,13 @@
         "name": "🏎Deportes Motors🏁",
         "samples": [
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "DAZN F1",
                 "url": "http://128.201.227.251:4000/play/a0cm",
                 "icono": "https://i.ibb.co/GQ7KRGyK/main64551cf91667f.jpg",
@@ -883,13 +890,6 @@
                 "icono": "https://i.postimg.cc/vZDNwQvN/1775873512853.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=51710c9c227a4637991466ece1b3550e&key=831bfae1e16f4cc2cda5d620e6d1e96a"
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "ESPN 3 MX",
