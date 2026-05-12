@@ -2989,6 +2989,13 @@
                 "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://181.13.252.102:8000/play/a05a/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
