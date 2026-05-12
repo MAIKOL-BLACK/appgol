@@ -1082,6 +1082,13 @@
         "name": "DEPORTE ESPAÑA🇪🇸",
         "samples": [
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Movistar La Liga",
                 "url": "http://latam-cache-sv2-cdn.latamlive.net/MLALIGA_IP_ENC_TEMPORAL/index.mpd",
                 "icono": "https://i.postimg.cc/DzSt4jbD/images-(4).png",
@@ -1135,13 +1142,6 @@
     {
         "name": "DEPORTE CHILE🇨🇱",
         "samples": [
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ESPN 1",
                 "url": "http://190.93.229.30:8000/play/a0fw/index.m3u8",
