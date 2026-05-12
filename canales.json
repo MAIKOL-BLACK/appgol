@@ -1201,60 +1201,6 @@
         ]
     },
     {
-        "name": "ESPN COLOMBIA🇨🇴",
-        "samples": [
-            {
-                "name": "ESPN 1 ",
-                "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 2",
-                "url": "http://181.118.158.103:8000/play/a039/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 3",
-                "url": "http://181.118.158.103:8000/play/a03a/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 4",
-                "url": "http://181.78.8.199:8000/play/a0do/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 5",
-                "url": "http://181.118.158.103:8000/play/a03c/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 6",
-                "url": "http://181.118.158.103:8000/play/a03d/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPN 7",
-                "url": "http://181.118.158.103:8000/play/a03e/index.m3u8?hls",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "INTERNACIONALES",
         "samples": [
             {
@@ -1310,6 +1256,60 @@
                 "name": "CNN BRASIL",
                 "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
                 "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "ESPN COLOMBIA🇨🇴",
+        "samples": [
+            {
+                "name": "ESPN 1 ",
+                "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 2",
+                "url": "http://181.118.158.103:8000/play/a039/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 3",
+                "url": "http://181.118.158.103:8000/play/a03a/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 4",
+                "url": "http://181.78.8.199:8000/play/a0do/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 5",
+                "url": "http://181.118.158.103:8000/play/a03c/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 6",
+                "url": "http://181.118.158.103:8000/play/a03d/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPN 7",
+                "url": "http://181.118.158.103:8000/play/a03e/index.m3u8?hls",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
