@@ -2358,6 +2358,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TELEMUNDO ACCION",
                 "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
                 "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
@@ -2429,13 +2436,6 @@
                 "name": "FREE TV LIVE",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16329",
                 "icono": "https://i.postimg.cc/htRdFdvN/freetvlive.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
