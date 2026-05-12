@@ -1771,6 +1771,13 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=ba4052ca5eb6f8ff6b98d47d098b2dec&key=bb3e4bfa1821d2bdc25c9a0970e4e3b8"
             },
             {
+                "name": "HBO MOSAICO FHD",
+                "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
+                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
+            },
+            {
                 "name": "HBO PLUS FHD",
                 "url": "https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
                 "icono": "https://i.postimg.cc/Xvdp7ZfR/1776027465743.png",
@@ -1811,13 +1818,6 @@
                 "icono": "https://i.postimg.cc/P5f4Dj38/1776026960436.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3b1b15c86e64344e8802b06b806957c5&key=114983add26911b589595d931b505ca5"
-            },
-            {
-                "name": "HBO MOSAICO FHD",
-                "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
-                "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
             },
             {
                 "name": "UNIVERSAL CINEMA",
