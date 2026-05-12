@@ -2494,6 +2494,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "Zeta 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/CC44AEA26CB14C29A32954F4488BA5D4_media.mp4",
                 "icono": "https://i.postimg.cc/VvWg02jD/Screenshot-20260402-172739-Chrome.jpg",
@@ -2605,13 +2612,6 @@
                 "name": "RETRO PLUS ",
                 "url": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8",
                 "icono": "https://i.postimg.cc/T1t6qRmS/download-2026-03-29T183219-242.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
