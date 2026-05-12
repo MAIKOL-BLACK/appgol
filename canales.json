@@ -741,32 +741,6 @@
         ]
     },
     {
-        "name": "Directv Sport 🇦🇷⚽️",
-        "samples": [
-            {
-                "name": "Directv sport 1",
-                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
-                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Directv Sport plus ",
-                "url": "http://45.170.130.224:8000/play/a06h/index.m3u8",
-                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
-                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
-            }
-        ]
-    },
-    {
         "name": "INTERNACIONALES",
         "samples": [
             {
@@ -824,6 +798,32 @@
                 "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
                 "type": "HLS",
                 "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "Directv Sport 🇦🇷⚽️",
+        "samples": [
+            {
+                "name": "Directv sport 1",
+                "url": "http://177.53.152.117:8000/play/a07f/index.m3u8",
+                "icono": "https://i.postimg.cc/MZ15V64x/channels4-profile.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Directv Sport plus ",
+                "url": "http://45.170.130.224:8000/play/a06h/index.m3u8",
+                "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
+                "type": "CLEARKEY",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "16:00hs LA LIGA 2025/26 FC BARCELONA vs REAL MADRID",
+                "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+                "icono": "https://i.ibb.co/Xkx7HPjc/thefmpm-20260510-0001.jpg",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
             }
         ]
     },
