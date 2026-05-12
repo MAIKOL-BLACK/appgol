@@ -247,6 +247,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "PARAGUAY TV SD",
+                "url": "http://45.170.130.224:8000/play/a02r/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
@@ -256,13 +263,6 @@
             {
                 "name": "PROBANDO",
                 "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAGUAY TV SD",
-                "url": "http://45.170.130.224:8000/play/a02r/index.m3u8",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
