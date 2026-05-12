@@ -2949,6 +2949,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "CINEMAX",
                 "url": "https://45.170.130.224:8000/play/a03e/index.m3u8",
                 "icono": "",
@@ -3055,14 +3062,6 @@
     },
     {
         "name": "EVENTOS DEL DIA",
-        "samples": [
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
+        "samples": []
     }
 ]
