@@ -2122,6 +2122,13 @@
         "name": "🎬CANALES DE NOVELAS",
         "samples": [
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "AZCORAZON",
                 "url": "http://190.108.89.228:8000/play/a051/index.m3u8",
                 "type": "CLEARKEY",
@@ -2164,13 +2171,6 @@
                 "name": "TELENOVELAS",
                 "url": "http://localhost.apppelis.es/solplay/168.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telenovelas_5f4d1ad8fd5e47828047ef72b86c1451.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
