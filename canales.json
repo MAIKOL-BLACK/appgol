@@ -277,6 +277,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "PARAGUAY🇵🇾",
         "samples": [
             {
@@ -459,10 +463,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "ARGENTINA🇦🇷",
