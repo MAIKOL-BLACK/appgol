@@ -3043,6 +3043,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     }
