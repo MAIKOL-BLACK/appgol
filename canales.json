@@ -2890,6 +2890,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "CHANEL HISTORY",
         "samples": [
             {
@@ -2984,10 +2988,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "Deportes Argentina Sin cortes🇦🇷",
