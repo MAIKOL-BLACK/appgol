@@ -1309,6 +1309,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "DEPORTE BRASIL🇧🇷",
         "samples": [
             {
@@ -1403,10 +1407,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "⚽ DEPORTES VARIADOS",
