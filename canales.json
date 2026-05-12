@@ -932,6 +932,13 @@
         "name": "DEPORTE ARGENTINA SAT",
         "samples": [
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "ESPN 1",
                 "url": "http://45.170.130.224:8000/play/a01y/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -1013,13 +1020,6 @@
     {
         "name": "DEPORTE PERÚ🇵🇪",
         "samples": [
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "ESPN 1",
                 "url": "http://38.187.2.124:8000/play/a00y/index.m3u8?hls",
