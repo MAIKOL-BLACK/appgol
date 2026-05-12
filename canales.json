@@ -2093,6 +2093,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "🙏🏻 CANALES CRISTIANOS",
         "samples": [
             {
@@ -2124,10 +2128,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "🎬CANALES DE NOVELAS",
