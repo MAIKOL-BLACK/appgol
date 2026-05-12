@@ -464,13 +464,6 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
-            },
-            {
-                "name": "AMERICA TV  Arg",
-                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
@@ -502,6 +495,13 @@
                 "name": "TELEFE Arg",
                 "url": "http://181.13.252.102:8000/play/a06c/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "AMERICA TV  Arg",
+                "url": "http://181.209.105.115:2525/play/america/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
