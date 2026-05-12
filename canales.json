@@ -100,7 +100,12 @@
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "EVENTOS DEL DIA",
+        "samples": [
             {
                 "name": "AL NASSR VS AL HILAL",
                 "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
@@ -109,10 +114,6 @@
                 "drm_license_uri": ""
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "CANALES PARAGUAYO",
