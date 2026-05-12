@@ -2168,6 +2168,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "TELEMUNDO",
                 "url": "http://localhost.apppelis.es/solplay/169.mpd",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telemundo_5bdd66f804a2433d90de8e2aad93f0b2.png",
@@ -2268,13 +2275,6 @@
     {
         "name": "BRASIL🇧🇷",
         "samples": [
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "BAND ",
                 "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
