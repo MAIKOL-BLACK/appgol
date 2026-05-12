@@ -28,7 +28,7 @@
             },
             {
                 "name": "TIGO SPORT ",
-                "url": "https://sam-py-edge05.tigo.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "url": "https://live.enhdtv.com:8081/8148/index.m3u8",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
