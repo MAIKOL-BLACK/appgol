@@ -795,6 +795,10 @@
         ]
     },
     {
+        "name": "EVENTOS DEL DIA",
+        "samples": []
+    },
+    {
         "name": "Directv Sport 🇦🇷⚽️",
         "samples": [
             {
@@ -819,10 +823,6 @@
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
             }
         ]
-    },
-    {
-        "name": "EVENTOS DEL DIA",
-        "samples": []
     },
     {
         "name": "🏎Deportes Motors🏁",
