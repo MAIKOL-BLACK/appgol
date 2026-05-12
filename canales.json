@@ -450,19 +450,19 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
-            }
-        ]
-    },
-    {
-        "name": "ARGENTINA🇦🇷",
-        "samples": [
+            },
             {
                 "name": "AL NASSR VS AL HILAL",
                 "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
                 "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "ARGENTINA🇦🇷",
+        "samples": [
             {
                 "name": "AMERICA TV ",
                 "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc4NjEwNTAyIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL1ROVF9IRF9BcmcvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzE1YjA3YjZlNjQxNjRhZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.xJfoZuz0PYv2r8RW1K14n4plpb6vemWZRw1OcfYI4rYHYZqSzCiKAm1D_pRcWwrbEWQiJpNblsb7RNj08tn8tg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
