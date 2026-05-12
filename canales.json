@@ -1351,6 +1351,67 @@
         ]
     },
     {
+        "name": "INTERNACIONALES",
+        "samples": [
+            {
+                "name": "CNN ESPAÑOL",
+                "url": "http://181.13.252.102:8000/play/a054/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "C5N ARG",
+                "url": "http://181.13.252.102:8000/play/a01p/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "GALICIA TV ",
+                "url": "http://181.13.252.102:8000/play/a02q/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RAI ITALIA",
+                "url": "http://181.13.252.102:8000/play/a02p/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "TVE ",
+                "url": "http://181.13.252.102:8000/play/a072/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "RT ESPAÑOL",
+                "url": "http://181.13.252.102:8000/play/a0ac/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CNN CHILE",
+                "url": "http://45.170.130.224:8000/play/a00y/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "CNN BRASIL",
+                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
         "name": "⚽ DEPORTES VARIADOS",
         "samples": [
             {
@@ -1476,67 +1537,6 @@
                 "name": "Boxeo Tv",
                 "url": "http://108.181.2.153:8080/live/xtream2323XSTREA/gphzPzzWFcRb/519024.m3u8?_cb=1776093328789&token=ThUKWEAMEQgXBl0FVAxTAgVSCQgFUVJXUlZSUgdSVVdQAlNcV1AFBgdGFERDTREDVwlnWVRBDAQGXQZXVhxAFEZSEGZaABEIF1AJUgAPU0QaRkxZXQYUCwdIFBULVEBbW0IOVR9GVkpBAUoIUVU8AlMSUVNVQQxfQghaSUBfDD5RUg9YXQARCBdVGkoSUBAWFF5WRVwPGhNVDUIXA0QHQw9ZF1VfSBFRWhFWEkJAQVwUNGESHEFTSUMBWBYLXwxDDxUPCkZcER4XDUs5QlwQEkQBWV1VERQLFVQUSUBdAxlqVA1XXQFQRlwLVhUSA0FVFEgaXV8NX0VYFmkVC1RAW1tCDlVO",
                 "icono": "https://i.postimg.cc/MTN5dGDB/images-(16).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
-        "name": "INTERNACIONALES",
-        "samples": [
-            {
-                "name": "CNN ESPAÑOL",
-                "url": "http://181.13.252.102:8000/play/a054/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "C5N ARG",
-                "url": "http://181.13.252.102:8000/play/a01p/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "GALICIA TV ",
-                "url": "http://181.13.252.102:8000/play/a02q/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RAI ITALIA",
-                "url": "http://181.13.252.102:8000/play/a02p/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "TVE ",
-                "url": "http://181.13.252.102:8000/play/a072/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "RT ESPAÑOL",
-                "url": "http://181.13.252.102:8000/play/a0ac/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN CHILE",
-                "url": "http://45.170.130.224:8000/play/a00y/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "CNN BRASIL",
-                "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
-                "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
