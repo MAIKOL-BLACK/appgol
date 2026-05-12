@@ -2039,39 +2039,6 @@
         ]
     },
     {
-        "name": "🙏🏻 CANALES CRISTIANOS",
-        "samples": [
-            {
-                "name": "DIOS TV",
-                "url": "https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/598164936431443969/LKwzeOZ4_400x400.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Daystar Español",
-                "url": "https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8",
-                "icono": "https://i.postimg.cc/R0v7cdDv/hq720-(5).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "ESPERANZA TV",
-                "url": "https://cdn-us-mia.b-cdn.net/hcorg_7IehiLEKH5q/s/jsl_kRualFlRu2u/master.m3u8",
-                "icono": "https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MISIÓN DE VIDA",
-                "url": "https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8",
-                "icono": "https://pbs.twimg.com/profile_images/634219937016467456/BEUuY5T2_400x400.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "INTERNACIONALES",
         "samples": [
             {
@@ -2127,6 +2094,39 @@
                 "name": "CNN BRASIL",
                 "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
                 "icono": "https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    },
+    {
+        "name": "🙏🏻 CANALES CRISTIANOS",
+        "samples": [
+            {
+                "name": "DIOS TV",
+                "url": "https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/598164936431443969/LKwzeOZ4_400x400.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "Daystar Español",
+                "url": "https://live-mcl.cdn01.net/web/v2a5w28m3/playlist.m3u8",
+                "icono": "https://i.postimg.cc/R0v7cdDv/hq720-(5).jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "ESPERANZA TV",
+                "url": "https://cdn-us-mia.b-cdn.net/hcorg_7IehiLEKH5q/s/jsl_kRualFlRu2u/master.m3u8",
+                "icono": "https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
+                "name": "MISIÓN DE VIDA",
+                "url": "https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8",
+                "icono": "https://pbs.twimg.com/profile_images/634219937016467456/BEUuY5T2_400x400.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             }
