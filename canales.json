@@ -2433,6 +2433,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "AL NASSR VS AL HILAL",
+                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
+                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "FREE TV SUREÑO ",
                 "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16323",
                 "icono": "https://i.postimg.cc/90vqQ4Bv/freetvsureno-png.png",
@@ -2451,13 +2458,6 @@
     {
         "name": "🎬NETFLIX  ESTRENO 2026",
         "samples": [
-            {
-                "name": "AL NASSR VS AL HILAL",
-                "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-                "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
             {
                 "name": "Alerta extincion 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/A91CBFB3BC0B4B6DA8589BD75E4B4ABF_media.mp4",
