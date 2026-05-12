@@ -2996,6 +2996,13 @@
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
+            },
+            {
+                "name": "Ty C Sports",
+                "url": "http://181.13.252.102:8000/play/a02s/index.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
             }
         ]
     },
