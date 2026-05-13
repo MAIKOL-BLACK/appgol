@@ -112,13 +112,6 @@
                 "icono": "https://i.ibb.co/jkFdy91N/FB-IMG-1778594017123.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Deporte Tv",
-                "url": "http://181.13.252.102:8000/play/a06h/index.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
