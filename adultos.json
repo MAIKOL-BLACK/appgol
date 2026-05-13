@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Live",
+        "samples": [
+            {
+                "name": "PlayBoy",
+                "url": "https://canaiss.fazoeli.co.za/fontes/smsrt/playboy.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            }
+        ]
+    }
+]
