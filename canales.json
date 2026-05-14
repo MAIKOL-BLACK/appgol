@@ -512,7 +512,7 @@
             },
             {
                 "name": "EL TRECE HD Arg",
-                "url": "http://181.13.252.102:8000/play/a0bg/index.m3u8",
+                "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/canal-13_ec12fb1086f84788a7a1b8e53440b21f.png",
                 "type": "HLS",
                 "drm_license_uri": ""
