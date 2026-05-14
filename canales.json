@@ -60,15 +60,15 @@
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN Disney+ 3",
-                "url": "https://cablemaxsigloxxi.com:8000/play/a07p/index.m3u8?hls",
+                "name": "ESPN Disney+ 2",
+                "url": "http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
             {
-                "name": "ESPN Disney+ 2",
-                "url": "http://cablemaxsigloxxi.com:8000/play/a0t5/index.m3u8?hls",
+                "name": "ESPN Disney+ 3",
+                "url": "https://cablemaxsigloxxi.com:8000/play/a07p/index.m3u8?hls",
                 "icono": "https://i.postimg.cc/GtrhNj96/r1463716-1296x729-16-9.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
