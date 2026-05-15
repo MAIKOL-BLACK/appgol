@@ -7,12 +7,7 @@
                 "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "CLEARKEY",
-                "drm_license_uri": "",
-                "headers": {
-                    "Origin": "https://portal.app.flow.com.py",
-                    "Referer": "https://portal.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                }
+                "drm_license_uri": ""
             },
             {
                 "name": "EVENTOS 2",
