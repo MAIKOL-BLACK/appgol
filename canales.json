@@ -41,13 +41,6 @@
                 "icono": "https://www.personal.com.py/img/futbol/logo-tigo-sport.png",
                 "type": "HLS",
                 "drm_license_uri": ""
-            },
-            {
-                "name": "Proba",
-                "url": "https://www.apsattv.com/lg.m3u",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             }
         ]
     },
