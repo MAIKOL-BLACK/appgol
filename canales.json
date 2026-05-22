@@ -2343,6 +2343,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "Scream 7 2026",
+                "url": "http://goovdme.967sd1f.homes/vod/2EB7E64CD90546A0B14E5689FB586935_media.ts",
+                "icono": "https://i.postimg.cc/J0Zg6Tjy/scream-seven-ver8-xlg.jpg",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "El Engaño 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/D9AB4A82610C42DF8CD1C4C98F175E0D_media.mp4",
                 "icono": "https://i.postimg.cc/MKntpfhv/1775160643215.png",
@@ -2360,13 +2367,6 @@
                 "name": "Solo Mio 2026",
                 "url": "http://goovdme.967sd1f.homes/vod/93B691CD5BAE479C8E399F12DB773A30_media.ts",
                 "icono": "https://i.postimg.cc/Xq13W1r6/1775161069856.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Scream 7 2026",
-                "url": "http://goovdme.967sd1f.homes/vod/2EB7E64CD90546A0B14E5689FB586935_media.ts",
-                "icono": "https://i.postimg.cc/J0Zg6Tjy/scream-seven-ver8-xlg.jpg",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
