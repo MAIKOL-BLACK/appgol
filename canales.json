@@ -242,6 +242,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
             },
             {
+                "name": "NPY 1",
+                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "PARAVISION  ",
                 "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NTkwODQzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4MWE5ZDA1ZmZhZTM5ZDdjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.5IvaLjzqVXFOi1n7nRIKKA0mGXCUUVl0Y4t2KtAPvAo54QEFX35VjwjRDXrL5UE3bDm7Nz--EkQlIwZxPfoduA==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
                 "type": "CLEARKEY",
@@ -303,13 +310,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png"
-            },
-            {
-                "name": "NPY 1",
-                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "ESTACION 40",
