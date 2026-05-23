@@ -204,6 +204,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "NPY 1",
+                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "PROBANDO",
                 "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
                 "icono": "",
@@ -240,13 +247,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
-            },
-            {
-                "name": "NPY 1",
-                "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "PARAVISION  ",
