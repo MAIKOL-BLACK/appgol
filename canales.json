@@ -277,6 +277,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png"
             },
             {
+                "name": "NPY 2",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
+                "icono": "",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "UNICANAL",
                 "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NTkwODQzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4MWE5ZDA1ZmZhZTM5ZDdjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.5IvaLjzqVXFOi1n7nRIKKA0mGXCUUVl0Y4t2KtAPvAo54QEFX35VjwjRDXrL5UE3bDm7Nz--EkQlIwZxPfoduA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
                 "type": "CLEARKEY",
@@ -336,13 +343,6 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png"
-            },
-            {
-                "name": "NPY 2",
-                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
             },
             {
                 "name": "C9N  ",
