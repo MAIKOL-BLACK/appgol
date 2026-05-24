@@ -2748,25 +2748,6 @@
         ]
     },
     {
-        "name": "INTERIOR PY",
-        "samples": [
-            {
-                "name": "Canal 20",
-                "url": "https://live20.bozztv.com/giatv/giatv-canal20hd/canal20hd/chunks.m3u8",
-                "icono": "https://i.postimg.cc/7YDD3CtH/IMG-20260414-WA0095(1).jpg",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "Sexy Hot ",
-                "url": "http://190.11.225.124:5000/live/sexyhot_hd/playlist.m3u8",
-                "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            }
-        ]
-    },
-    {
         "name": "CHANEL HISTORY",
         "samples": [
             {
