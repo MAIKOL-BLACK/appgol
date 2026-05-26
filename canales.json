@@ -59,6 +59,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "MONUMENTAL AM 1080 TV",
+                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "NPY SD",
                 "url": "http://45.170.130.224:8000/play/a035/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
@@ -76,13 +83,6 @@
                 "name": "GEN HD",
                 "url": "http://45.170.130.224:8000/play/a04j/index.m3u8",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "MONUMENTAL AM 1080 TV",
-                "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
