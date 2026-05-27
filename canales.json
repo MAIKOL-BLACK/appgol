@@ -143,6 +143,13 @@
                 "drm_license_uri": ""
             },
             {
+                "name": "TELEFUTURO",
+                "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
@@ -186,13 +193,6 @@
                 "name": "ÑANDUTI TV",
                 "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
                 "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png"
-            },
-            {
-                "name": "TELEFUTURO",
-                "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
             },
             {
                 "name": "PARAVISION  ",
