@@ -608,7 +608,7 @@
             },
             {
                 "name": "Directv Sport plus ",
-                "url": "emas/playlist.m3u8",
+                "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
                 "icono": "https://i.ibb.co/xtzsjYNq/dsports2-1.png",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
