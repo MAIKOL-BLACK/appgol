@@ -594,7 +594,7 @@
             },
             {
                 "name": "Arg",
-                "url": "http://173.208.244.98:8080/hls/tigosportsparaguay/index.m3u8",
+                "url": "",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
