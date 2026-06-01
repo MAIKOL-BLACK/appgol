@@ -601,7 +601,7 @@
             },
             {
                 "name": "Directv Sport plus ",
-                "url": "https://sam-py-edge02.tigo.com.py/ccur-session/05_1610033638/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+                "url": "https://sam-py-edge05.tigo.com.py/ccur-session/05_1610033638/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "icono": "33638/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": ""
