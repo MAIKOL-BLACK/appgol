@@ -594,7 +594,7 @@
             },
             {
                 "name": "Arg",
-                "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a206d2060/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+                "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a206d2060/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
                 "icono": "",
                 "type": "HLS",
                 "drm_license_uri": ""
