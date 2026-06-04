@@ -150,6 +150,13 @@
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png"
             },
             {
+                "name": "PARAVISION  SD",
+                "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
+                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
+                "type": "HLS",
+                "drm_license_uri": ""
+            },
+            {
                 "name": "E40",
                 "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
                 "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
@@ -160,13 +167,6 @@
                 "name": "PROBANDO",
                 "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
                 "icono": "",
-                "type": "HLS",
-                "drm_license_uri": ""
-            },
-            {
-                "name": "PARAVISION  SD",
-                "url": "http://45.170.130.224:8000/play/a032/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
                 "type": "HLS",
                 "drm_license_uri": ""
             },
